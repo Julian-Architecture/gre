@@ -1,8 +1,8 @@
 ---
-gre_id: "5f859cad1a"
+gre_id: 5f859cad1a
 aliases: [/id/5f859cad1a]
 type: garden
-title: "Vilarenc"
+title: Vilarenc
 latlon: [ 0, 0 ]
 author: Clopper Almon
 contributor: Qianli Jiang

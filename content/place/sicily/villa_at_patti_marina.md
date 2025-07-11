@@ -1,8 +1,8 @@
 ---
-gre_id: "24ecdfe9e7"
+gre_id: 24ecdfe9e7
 aliases: [/id/24ecdfe9e7]
 type: garden
-title: "Villa at Patti Marina"
+title: Villa at Patti Marina
 latlon: [ 38.192251, 15.556634 ]
 author: Roger Wilson
 contributor: Chen Chen

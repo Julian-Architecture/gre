@@ -1,8 +1,8 @@
 ---
-gre_id: "9f39ffc68d"
+gre_id: 9f39ffc68d
 aliases: [/id/9f39ffc68d]
 type: place
-title: "Gallia Belgica"
+title: Gallia Belgica
 latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
@@ -11,7 +11,7 @@ modified: 2025-07-07
 draft: true
 ---
 
-<!-- 
+<!--
 ## Dates
 For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
 

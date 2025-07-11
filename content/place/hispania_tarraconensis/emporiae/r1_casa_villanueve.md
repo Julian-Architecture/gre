@@ -1,8 +1,8 @@
 ---
-gre_id: "92633827fc"
+gre_id: 92633827fc
 aliases: [/id/92633827fc]
 type: garden
-title: "R1 Casa Villanueve"
+title: R1 Casa Villanueve
 latlon: [ 47.260687, 9.617966 ]
 author:
 contributor: Qianli Jiang

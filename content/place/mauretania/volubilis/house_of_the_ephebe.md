@@ -1,8 +1,8 @@
 ---
-gre_id: "d810c81400"
+gre_id: d810c81400
 aliases: [/id/d810c81400]
 type: garden
-title: "House of the Ephebe (Maison de l'Ephebe)"
+title: House of the Ephebe (Maison de l'Ephebe)
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Brandon Wilson

@@ -1,8 +1,8 @@
 ---
-gre_id: "24c99cc9d4"
+gre_id: 24c99cc9d4
 aliases: [/id/24c99cc9d4]
 type: garden
-title: "Casa del Telaio"
+title: Casa del Telaio
 date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski

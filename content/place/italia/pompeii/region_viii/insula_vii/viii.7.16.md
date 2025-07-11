@@ -1,8 +1,8 @@
 ---
-gre_id: "31fa330066"
+gre_id: 31fa330066
 aliases: [/id/31fa330066]
 type: garden
-title: "VIII.7.16. Gladiatorial Barracks; Ludus Gladiatorius; Schola Gladiatoria"
+title: VIII.7.16. Gladiatorial Barracks; Ludus Gladiatorius; Schola Gladiatoria
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

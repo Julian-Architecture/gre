@@ -1,8 +1,8 @@
 ---
-gre_id: "a72a260f9e"
+gre_id: a72a260f9e
 aliases: [/id/a72a260f9e]
 type: garden
-title: "The Garden of the Piazza d'Oro (Fig. 1, n. 20)"
+title: The Garden of the Piazza d'Oro (Fig. 1, n. 20)
 latlon: [ 41.941305, 12.778279 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Joshua Rosenheim

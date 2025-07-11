@@ -1,8 +1,8 @@
 ---
-gre_id: "e34f58deaf"
+gre_id: e34f58deaf
 aliases: [/id/e34f58deaf]
 type: garden
-title: "Rural Villa in Winkel-Seeb"
+title: Rural Villa in Winkel-Seeb
 latlon: [ 47.493253, 8.548345 ]
 author: Maureen Carroll
 contributor: June Dorsch

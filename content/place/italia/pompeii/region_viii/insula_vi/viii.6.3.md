@@ -1,8 +1,8 @@
 ---
-gre_id: "adf2de1542"
+gre_id: adf2de1542
 aliases: [/id/adf2de1542]
 type: garden
-title: "VIII.6.3. (no. 14 at Pompeii)"
+title: VIII.6.3. (no. 14 at Pompeii)
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

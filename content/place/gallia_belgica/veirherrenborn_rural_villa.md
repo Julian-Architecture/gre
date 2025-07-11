@@ -1,8 +1,8 @@
 ---
-gre_id: "7fedd7d7ff"
+gre_id: 7fedd7d7ff
 aliases: [/id/7fedd7d7ff]
 type: garden
-title: "Rural Villa"
+title: Rural Villa
 latlon: [ 0, 0 ]
 author: Maureen Carroll
 contributor: Yvette Pollack

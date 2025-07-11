@@ -1,8 +1,8 @@
 ---
-gre_id: "a491f6d729"
+gre_id: a491f6d729
 aliases: [/id/a491f6d729]
 type: garden
-title: "East Temple (Temple de l'Est)"
+title: East Temple (Temple de l'Est)
 latlon: [ 36.400355, 9.903990 ]
 author: Wilhelmina Jashemski
 contributor: Nicholas Gill

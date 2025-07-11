@@ -1,8 +1,8 @@
 ---
-gre_id: "d1833d7456"
+gre_id: d1833d7456
 aliases: [/id/d1833d7456]
 type: garden
-title: "Garden arrangement under the Libraries' terrace (Fig. 1, n. 9)"
+title: Garden arrangement under the Libraries' terrace (Fig. 1, n. 9)
 latlon: [ 41.943021, 12.776021 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Joshua Rosenheim

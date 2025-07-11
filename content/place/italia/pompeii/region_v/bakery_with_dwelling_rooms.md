@@ -1,8 +1,8 @@
 ---
-gre_id: "2296429b74"
+gre_id: 2296429b74
 aliases: [/id/2296429b74]
 type: garden
-title: "Bakery with Dwelling Rooms (V.iv.1.)"
+title: Bakery with Dwelling Rooms (V.iv.1.)
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: Jianing Zhou

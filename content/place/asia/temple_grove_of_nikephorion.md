@@ -1,8 +1,8 @@
 ---
-gre_id: "64c43f2f28"
+gre_id: 64c43f2f28
 aliases: [/id/64c43f2f28]
 type: garden
-title: "Temple Grove of Nikephorion"
+title: Temple Grove of Nikephorion
 latlon: [ 0, 0 ]
 author: Maureen Carroll, Kathryn Gleason
 contributor: Annette Guan

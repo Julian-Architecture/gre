@@ -1,8 +1,8 @@
 ---
-gre_id: "ba78007c9e"
+gre_id: ba78007c9e
 aliases: [/id/ba78007c9e]
 type: garden
-title: "VIII.2.18-20."
+title: VIII.2.18-20.
 latlon: [ 40.74811, 14.48562 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

@@ -1,8 +1,8 @@
 ---
-gre_id: "515b239960"
+gre_id: 515b239960
 aliases: [/id/515b239960]
 type: garden
-title: "House of the small Peristyle"
+title: House of the small Peristyle
 latlon: [ 36.838512, 11.115794 ]
 author: Véronique Blanc-Bijon
 contributor: Yuming Huang

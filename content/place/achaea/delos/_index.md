@@ -1,8 +1,8 @@
 ---
-gre_id: "fbded729df"
+gre_id: fbded729df
 aliases: [/id/fbded729df]
 type: place
-title: "Delos"
+title: Delos
 author: Monika Trümper
 editor: Jane Millar
 date: 2021-04-21

@@ -1,8 +1,8 @@
 ---
-gre_id: "0a9a4ef076"
+gre_id: 0a9a4ef076
 aliases: [/id/0a9a4ef076]
 type: garden
-title: "Jericho Palace of John Hyrcanus I"
+title: Jericho Palace of John Hyrcanus I
 latlon: [ 31.853511, 35.433756 ]
 author: Kathryn Gleason, Ehud Netzer
 contributor: Yaniv Korman

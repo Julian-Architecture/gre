@@ -1,8 +1,8 @@
 ---
-gre_id: "b773ddb08b"
+gre_id: b773ddb08b
 aliases: [/id/b773ddb08b]
 type: garden
-title: "Funerary Chamber of Manlia Felicitas"
+title: Funerary Chamber of Manlia Felicitas
 latlon: [ 41.853944, 12.517797 ]
 author: John Bodel
 contributor: Yuyao Liu

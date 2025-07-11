@@ -1,8 +1,8 @@
 ---
-gre_id: "189991e576"
+gre_id: 189991e576
 aliases: [/id/189991e576]
 type: garden
-title: "Tomb Garden of a Funerary Collegium"
+title: Tomb Garden of a Funerary Collegium
 latlon: [ 0, 0 ]
 author: John Bodel
 contributor: Yuyao Liu

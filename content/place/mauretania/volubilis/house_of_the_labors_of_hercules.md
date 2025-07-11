@@ -1,8 +1,8 @@
 ---
-gre_id: "64430de73d"
+gre_id: 64430de73d
 aliases: [/id/64430de73d]
 type: garden
-title: "House of the Labors of Hercules (La maison des travaux d'Hercules)"
+title: House of the Labors of Hercules (La maison des travaux d'Hercules)
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Brandon Wilson

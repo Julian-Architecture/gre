@@ -1,8 +1,8 @@
 ---
-gre_id: "b1672db932"
+gre_id: b1672db932
 aliases: [/id/b1672db932]
 type: garden
-title: "Sollertianna Domus"
+title: Sollertianna Domus
 latlon: [ 35.289921, 10.704940 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Jinyi Yang

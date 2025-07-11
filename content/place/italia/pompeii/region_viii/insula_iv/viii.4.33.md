@@ -1,8 +1,8 @@
 ---
-gre_id: "fd7365d9ae"
+gre_id: fd7365d9ae
 aliases: [/id/fd7365d9ae]
 type: garden
-title: "VIII.4.33."
+title: VIII.4.33.
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

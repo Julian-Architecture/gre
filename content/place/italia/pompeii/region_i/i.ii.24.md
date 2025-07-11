@@ -1,8 +1,8 @@
 ---
-gre_id: "a56ec7e41e"
+gre_id: a56ec7e41e
 aliases: [/id/a56ec7e41e]
 type: garden
-title: "I.2.24 Officina Libraria"
+title: I.2.24 Officina Libraria
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

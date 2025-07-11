@@ -1,8 +1,8 @@
 ---
-gre_id: "940af55b8a"
+gre_id: 940af55b8a
 aliases: [/id/940af55b8a]
 type: garden
-title: "Park Area Adjacent to the Great Palaestra and the Amphitheater"
+title: Park Area Adjacent to the Great Palaestra and the Amphitheater
 latlon: [ 40.75089, 14.49466 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

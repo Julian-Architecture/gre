@@ -1,8 +1,8 @@
 ---
-gre_id: "cdb21753ee"
+gre_id: cdb21753ee
 aliases: [/id/cdb21753ee]
 type: garden
-title: "Hermaphrodite House (Maison de l'Hermaphrodite)"
+title: Hermaphrodite House (Maison de l'Hermaphrodite)
 latlon: [ 35.485216, 6.468222 ]
 author: Amina-Aïcha Malek
 contributor: Xue Xia

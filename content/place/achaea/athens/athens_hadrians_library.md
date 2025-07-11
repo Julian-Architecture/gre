@@ -1,8 +1,8 @@
 ---
-gre_id: "1aef208ebc"
+gre_id: 1aef208ebc
 aliases: [/id/1aef208ebc]
 type: garden
-title: "Library of Hadrian"
+title: Library of Hadrian
 latlon: [ 37.975531, 23.725995 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri

@@ -1,8 +1,8 @@
 ---
-gre_id: "546d6c983a"
+gre_id: 546d6c983a
 aliases: [/id/546d6c983a]
 type: garden
-title: "Monumental Tomb Garden Complex"
+title: Monumental Tomb Garden Complex
 latlon: [ 0, 0 ]
 author: John Bodel
 contributor: Yuyao Liu

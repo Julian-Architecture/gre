@@ -1,8 +1,8 @@
 ---
-gre_id: "d9747cf8bb"
+gre_id: d9747cf8bb
 aliases: [/id/d9747cf8bb]
 type: garden
-title: "Sanctuary of Artemis"
+title: Sanctuary of Artemis
 latlon: [ 38.430259, 23.593654 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri

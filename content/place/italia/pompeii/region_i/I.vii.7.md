@@ -1,8 +1,8 @@
 ---
-gre_id: "55b0838dc2"
+gre_id: 55b0838dc2
 aliases: [/id/55b0838dc2]
 type: garden
-title: "I.7.7 House of the Priest Amandus"
+title: I.7.7 House of the Priest Amandus
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

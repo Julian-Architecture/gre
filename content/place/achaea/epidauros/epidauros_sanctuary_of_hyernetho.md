@@ -1,8 +1,8 @@
 ---
-gre_id: "4ac5538904"
+gre_id: 4ac5538904
 aliases: [/id/4ac5538904]
 type: garden
-title: "Sanctuary of Hyernetho"
+title: Sanctuary of Hyernetho
 latlon: [ 37.633775, 23.159638 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri

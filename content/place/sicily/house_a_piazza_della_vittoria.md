@@ -1,8 +1,8 @@
 ---
-gre_id: "7b685f973b"
+gre_id: 7b685f973b
 aliases: [/id/7b685f973b]
 type: garden
-title: "House A, Piazza della Vittoria"
+title: House A, Piazza della Vittoria
 latlon: [ 38.11127, 13.353442 ]
 author: Roger Wilson
 contributor: Chen Chen

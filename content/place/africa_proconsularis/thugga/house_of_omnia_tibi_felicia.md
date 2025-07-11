@@ -1,8 +1,8 @@
 ---
-gre_id: "0e18b5c4ee"
+gre_id: 0e18b5c4ee
 aliases: [/id/0e18b5c4ee]
 type: garden
-title: "House of Omnia Tibi Felicia (Maison Omnia Tibi Felicia)"
+title: House of Omnia Tibi Felicia (Maison Omnia Tibi Felicia)
 latlon: [ 36.422473, 9.218866 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Nicholas Gill

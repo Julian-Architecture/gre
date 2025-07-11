@@ -1,8 +1,8 @@
 ---
-gre_id: "c538942469"
+gre_id: c538942469
 aliases: [/id/c538942469]
 type: garden
-title: "I.6.13 House of Stallus Eros"
+title: I.6.13 House of Stallus Eros
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

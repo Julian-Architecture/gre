@@ -1,8 +1,8 @@
 ---
-gre_id: "39615f57fd"
+gre_id: 39615f57fd
 aliases: [/id/39615f57fd]
 type: garden
-title: "I.5.2 Officina Coriarioum of M. Vesonius Primus"
+title: I.5.2 Officina Coriarioum of M. Vesonius Primus
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

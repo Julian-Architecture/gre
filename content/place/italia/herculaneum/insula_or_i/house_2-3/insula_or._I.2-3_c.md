@@ -1,8 +1,8 @@
 ---
-gre_id: "275f573961"
+gre_id: 275f573961
 aliases: [/id/275f573961]
 type: garden
-title: "Insula or. I.2-3(C)"
+title: Insula or. I.2-3(C)
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

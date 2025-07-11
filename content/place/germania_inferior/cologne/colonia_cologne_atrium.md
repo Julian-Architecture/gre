@@ -1,8 +1,8 @@
 ---
-gre_id: "46cdbef913"
+gre_id: 46cdbef913
 aliases: [/id/46cdbef913]
 type: garden
-title: "Atrium House"
+title: Atrium House
 latlon: [ 50.940671, 6.959908 ]
 author: Maureen Carroll
 contributor: David Ratzan

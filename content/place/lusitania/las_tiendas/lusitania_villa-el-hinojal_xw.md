@@ -1,8 +1,8 @@
 ---
-gre_id: "40f9550565"
+gre_id: 40f9550565
 aliases: [/id/40f9550565]
 type: garden
-title: "Villa de Hinojal"
+title: Villa de Hinojal
 latlon: [ 0, 0 ]
 author: Clopper Almon
 contributor: Xingjian Wang

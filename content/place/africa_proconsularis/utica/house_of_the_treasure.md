@@ -1,8 +1,8 @@
 ---
-gre_id: "a89aebd07c"
+gre_id: a89aebd07c
 aliases: [/id/a89aebd07c]
 type: garden
-title: "House of the Treasure (Maison au trésor)"
+title: House of the Treasure (Maison au trésor)
 latlon: [ 37.055611, 10.061305 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Jinyi Yang

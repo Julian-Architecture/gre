@@ -1,8 +1,8 @@
 ---
-gre_id: "530e6055cb"
+gre_id: 530e6055cb
 aliases: [/id/530e6055cb]
 type: garden
-title: "The sanctuary of the Victories of Caracalla"
+title: The sanctuary of the Victories of Caracalla
 latlon: [ 36.422473, 9.218866 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Xue Xia

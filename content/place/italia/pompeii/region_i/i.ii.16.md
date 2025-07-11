@@ -1,8 +1,8 @@
 ---
-gre_id: "5c56f7d4d9"
+gre_id: 5c56f7d4d9
 aliases: [/id/5c56f7d4d9]
 type: garden
-title: "I.2.16"
+title: I.2.16
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

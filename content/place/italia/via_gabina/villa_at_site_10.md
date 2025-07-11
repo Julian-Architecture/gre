@@ -1,8 +1,8 @@
 ---
-gre_id: "4e09dabd43"
+gre_id: 4e09dabd43
 aliases: [/id/4e09dabd43]
 type: garden
-title: "Villa at site 10"
+title: Villa at site 10
 latlon: [ 41.890683, 12.632573 ]
 author: Walter Widrig
 contributor: Lingyi Xu

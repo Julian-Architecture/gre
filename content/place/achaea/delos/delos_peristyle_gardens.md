@@ -1,8 +1,8 @@
 ---
-gre_id: "137e564fe8"
+gre_id: 137e564fe8
 aliases: [/id/137e564fe8]
 type: garden
-title: "Peristyle Gardens in the Quarter of the Theater"
+title: Peristyle Gardens in the Quarter of the Theater
 latlon: [ 37.392022, 25.270238 ]
 author: Monika Trümper
 contributor: Jane Millar

@@ -1,8 +1,8 @@
 ---
-gre_id: "af4bdb0410"
+gre_id: af4bdb0410
 aliases: [/id/af4bdb0410]
 type: garden
-title: "House of the Peristyle"
+title: House of the Peristyle
 latlon: [ 47.260687, 9.617966 ]
 author:
 contributor: Qianli Jiang

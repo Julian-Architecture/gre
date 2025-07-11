@@ -1,8 +1,8 @@
 ---
-gre_id: "ab2e4f0ff3"
+gre_id: ab2e4f0ff3
 aliases: [/id/ab2e4f0ff3]
 type: garden
-title: "I.7.18 Shop-House"
+title: I.7.18 Shop-House
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

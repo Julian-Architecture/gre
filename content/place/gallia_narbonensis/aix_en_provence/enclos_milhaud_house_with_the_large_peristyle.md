@@ -1,8 +1,8 @@
 ---
-gre_id: "8359f0ebbc"
+gre_id: 8359f0ebbc
 aliases: [/id/8359f0ebbc]
 type: garden
-title: "Enclos Milhaud, House with the large peristyle"
+title: Enclos Milhaud, House with the large peristyle
 latlon: [ 42.439512, 3.176623 ]
 author: Eric Morvillez, Emilie Chassillan
 contributor: Yichen Liu

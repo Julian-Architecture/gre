@@ -1,8 +1,8 @@
 ---
-gre_id: "cdfd80b73c"
+gre_id: cdfd80b73c
 aliases: [/id/cdfd80b73c]
 type: garden
-title: "II.3.4-6"
+title: II.3.4-6
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

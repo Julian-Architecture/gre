@@ -1,8 +1,8 @@
 ---
-gre_id: "2602fe8dc1"
+gre_id: 2602fe8dc1
 aliases: [/id/2602fe8dc1]
 type: garden
-title: "Fontao Villa"
+title: Fontao Villa
 latlon: [ 0, 0 ]
 author:
 contributor: Xingjian Wang

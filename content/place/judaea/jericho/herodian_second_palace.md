@@ -1,8 +1,8 @@
 ---
-gre_id: "5d34e59833"
+gre_id: 5d34e59833
 aliases: [/id/5d34e59833]
 type: garden
-title: "Jericho Herodian Second Palace"
+title: Jericho Herodian Second Palace
 latlon: [ 31.853703, 35.434669 ]
 author: Kathryn Gleason
 contributor: Yaniv Korman

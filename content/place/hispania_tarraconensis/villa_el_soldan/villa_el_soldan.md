@@ -1,8 +1,8 @@
 ---
-gre_id: "15b1cb6052"
+gre_id: 15b1cb6052
 aliases: [/id/15b1cb6052]
 type: garden
-title: "Villa El Soldán  (The Sultan)"
+title: Villa El Soldán  (The Sultan)
 latlon: [ 42.453889, -6.240556 ]
 author:
 contributor: Yiyun Liu

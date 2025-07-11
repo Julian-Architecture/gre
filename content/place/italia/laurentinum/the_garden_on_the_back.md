@@ -1,8 +1,8 @@
 ---
-gre_id: "8a45b729f8"
+gre_id: 8a45b729f8
 aliases: [/id/8a45b729f8]
 type: garden
-title: "The garden on the back"
+title: The garden on the back
 latlon: [ 41.625, 12.375 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Yuyao Liu

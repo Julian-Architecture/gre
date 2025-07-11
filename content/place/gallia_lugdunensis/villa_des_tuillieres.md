@@ -1,8 +1,8 @@
 ---
-gre_id: "3fc4c08a87"
+gre_id: 3fc4c08a87
 aliases: [/id/3fc4c08a87]
 type: garden
-title: "Villa des Tuillières"
+title: Villa des Tuillières
 latlon: [ 47.319533, 4.796299 ]
 author: Maureen Carroll
 contributor: Yvette Pollack

@@ -1,8 +1,8 @@
 ---
-gre_id: "f6934aeede"
+gre_id: f6934aeede
 aliases: [/id/f6934aeede]
 type: garden
-title: "II.8.6 House of the Garden of Hercules"
+title: II.8.6 House of the Garden of Hercules
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

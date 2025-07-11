@@ -1,8 +1,8 @@
 ---
-gre_id: "4f46e03d15"
+gre_id: 4f46e03d15
 aliases: [/id/4f46e03d15]
 type: place
-title: "Dalmatia"
+title: Dalmatia
 latlon: [ 50.940671, 6.959908 ]
 author: None
 contributor: Christian Casey

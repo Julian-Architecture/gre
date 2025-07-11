@@ -1,8 +1,8 @@
 ---
-gre_id: "430f3773a2"
+gre_id: 430f3773a2
 aliases: [/id/430f3773a2]
 type: garden
-title: "House of the Masks (Maison aux Masques)"
+title: House of the Masks (Maison aux Masques)
 latlon: [ 45.758866, 4.819481 ]
 author: Maureen Carroll
 contributor: Yvette Pollack

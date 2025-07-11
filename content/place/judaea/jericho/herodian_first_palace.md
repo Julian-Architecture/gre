@@ -1,8 +1,8 @@
 ---
-gre_id: "1a7cf84cd7"
+gre_id: 1a7cf84cd7
 aliases: [/id/1a7cf84cd7]
 type: garden
-title: "Jericho Herodian First Palace"
+title: Jericho Herodian First Palace
 latlon: [ 31.853694, 35.434513 ]
 author: Kathryn Gleason
 contributor: Yaniv Korman

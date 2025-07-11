@@ -1,8 +1,8 @@
 ---
-gre_id: "6a6ac9d69b"
+gre_id: 6a6ac9d69b
 aliases: [/id/6a6ac9d69b]
 type: garden
-title: "Villa of Herodes Atticus"
+title: Villa of Herodes Atticus
 latlon: [ 37.377923, 22.656854 ]
 author: Annalisa Marzano
 contributor: Jane Millar, Amartya Shri

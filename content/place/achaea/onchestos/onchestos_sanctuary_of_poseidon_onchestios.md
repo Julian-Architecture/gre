@@ -1,8 +1,8 @@
 ---
-gre_id: "a6e56210af"
+gre_id: a6e56210af
 aliases: [/id/a6e56210af]
 type: garden
-title: "Sanctuary of Poseidon Onchestios"
+title: Sanctuary of Poseidon Onchestios
 latlon: [ 38.373269, 23.150267 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri

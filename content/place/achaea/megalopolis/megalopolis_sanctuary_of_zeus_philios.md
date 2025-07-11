@@ -1,8 +1,8 @@
 ---
-gre_id: "b358c1f3d6"
+gre_id: b358c1f3d6
 aliases: [/id/b358c1f3d6]
 type: garden
-title: "Sanctuary of Zeus Philios"
+title: Sanctuary of Zeus Philios
 latlon: [ 37.413033, 22.127645 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri

@@ -1,8 +1,8 @@
 ---
-gre_id: "cc3148ba5f"
+gre_id: cc3148ba5f
 aliases: [/id/cc3148ba5f]
 type: garden
-title: "VIII.5.15-16/18."
+title: VIII.5.15-16/18.
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

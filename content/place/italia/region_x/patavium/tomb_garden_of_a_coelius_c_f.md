@@ -1,8 +1,8 @@
 ---
-gre_id: "664bf5c779"
+gre_id: 664bf5c779
 aliases: [/id/664bf5c779]
 type: garden
-title: "Tomb garden of A. Coelius C. f."
+title: Tomb garden of A. Coelius C. f.
 latlon: [ 45.4071, 11.8698 ]
 author: John Bodel
 contributor: Zhenrui Mei

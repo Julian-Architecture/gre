@@ -1,8 +1,8 @@
 ---
-gre_id: "0f38629b65"
+gre_id: 0f38629b65
 aliases: [/id/0f38629b65]
 type: garden
-title: "II.5 Large Vineyard"
+title: II.5 Large Vineyard
 latlon: [ 40.752264, 14.494333 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

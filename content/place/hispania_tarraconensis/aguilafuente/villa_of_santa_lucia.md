@@ -1,8 +1,8 @@
 ---
-gre_id: "f7d0a15e30"
+gre_id: f7d0a15e30
 aliases: [/id/f7d0a15e30]
 type: garden
-title: "Villa of Santa Lucia"
+title: Villa of Santa Lucia
 latlon: [ 41.216005, -4.085251 ]
 author: Clopper Almon
 contributor: Qianli Jiang

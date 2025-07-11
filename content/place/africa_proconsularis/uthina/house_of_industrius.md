@@ -1,8 +1,8 @@
 ---
-gre_id: "011acd8815"
+gre_id: 011acd8815
 aliases: [/id/011acd8815]
 type: garden
-title: "House of Industrius (Maison d'Industrius)"
+title: House of Industrius (Maison d'Industrius)
 latlon: [ 36.607458, 10.172291 ]
 author: Amina-Aïcha Malek
 contributor: Jinyi Yang

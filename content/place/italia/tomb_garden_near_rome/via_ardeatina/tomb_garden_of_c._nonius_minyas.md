@@ -1,8 +1,8 @@
 ---
-gre_id: "af71a50afa"
+gre_id: af71a50afa
 aliases: [/id/af71a50afa]
 type: garden
-title: "Tomb Garden of C. Nonius Minyas"
+title: Tomb Garden of C. Nonius Minyas
 latlon: [ 0, 0 ]
 author: John Bodel
 contributor: Yuyao Liu

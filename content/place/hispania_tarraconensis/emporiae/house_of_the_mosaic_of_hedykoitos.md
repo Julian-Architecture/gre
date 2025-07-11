@@ -1,8 +1,8 @@
 ---
-gre_id: "b0bff5a21c"
+gre_id: b0bff5a21c
 aliases: [/id/b0bff5a21c]
 type: garden
-title: "House of the Mosaic of Hedykoitos"
+title: House of the Mosaic of Hedykoitos
 latlon: [ 47.260687, 9.617966 ]
 author:
 contributor: Qianli Jiang

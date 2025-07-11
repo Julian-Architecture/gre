@@ -1,8 +1,8 @@
 ---
-gre_id: "0c274588c9"
+gre_id: 0c274588c9
 aliases: [/id/0c274588c9]
 type: garden
-title: "House on the rue de la Harpe (Domus rue de la Harpe)"
+title: House on the rue de la Harpe (Domus rue de la Harpe)
 latlon: [ 49.022812, 1.151169 ]
 author: Maureen Carroll
 contributor: Yvette Pollack

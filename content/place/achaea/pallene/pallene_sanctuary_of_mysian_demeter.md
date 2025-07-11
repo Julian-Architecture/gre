@@ -1,8 +1,8 @@
 ---
-gre_id: "fd8693dc71"
+gre_id: fd8693dc71
 aliases: [/id/fd8693dc71]
 type: garden
-title: "Sanctuary of Mysian Demeter"
+title: Sanctuary of Mysian Demeter
 latlon: [ 38.018398, 23.849020 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri

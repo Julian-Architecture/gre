@@ -1,8 +1,8 @@
 ---
-gre_id: "5facd77b4b"
+gre_id: 5facd77b4b
 aliases: [/id/5facd77b4b]
 type: garden
-title: "VIII.5.37. Casa delle Pareti Rosse; House of the Fabii"
+title: VIII.5.37. Casa delle Pareti Rosse; House of the Fabii
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

@@ -1,8 +1,8 @@
 ---
-gre_id: "2b126005e5"
+gre_id: 2b126005e5
 aliases: [/id/2b126005e5]
 type: garden
-title: "VIII.5.20/17. Caupona"
+title: VIII.5.20/17. Caupona
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

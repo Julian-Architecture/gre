@@ -1,8 +1,8 @@
 ---
-gre_id: "bd26d0f1d1"
+gre_id: bd26d0f1d1
 aliases: [/id/bd26d0f1d1]
 type: garden
-title: "House of Taracena"
+title: House of Taracena
 latlon: [ 47.260687, 9.617966 ]
 author: Clopper Almon
 contributor: Qianli Jiang

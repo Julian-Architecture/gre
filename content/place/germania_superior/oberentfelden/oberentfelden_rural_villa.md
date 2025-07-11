@@ -1,8 +1,8 @@
 ---
-gre_id: "56c815644f"
+gre_id: 56c815644f
 aliases: [/id/56c815644f]
 type: garden
-title: "Rural Villa in Oberentfelden"
+title: Rural Villa in Oberentfelden
 latlon: [ 47.356477, 8.046769 ]
 author: Maureen Carroll
 contributor: June Dorsch

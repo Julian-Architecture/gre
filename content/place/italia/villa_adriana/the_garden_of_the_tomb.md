@@ -1,8 +1,8 @@
 ---
-gre_id: "09f6d291b7"
+gre_id: 09f6d291b7
 aliases: [/id/09f6d291b7]
 type: garden
-title: "The garden of the tomb (Fig. 1, n. 21)"
+title: The garden of the tomb (Fig. 1, n. 21)
 latlon: [ 41.939804, 12.778392 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Joshua Rosenheim

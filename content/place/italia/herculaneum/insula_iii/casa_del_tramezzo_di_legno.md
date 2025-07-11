@@ -1,8 +1,8 @@
 ---
-gre_id: "d0a13c750c"
+gre_id: d0a13c750c
 aliases: [/id/d0a13c750c]
 type: garden
-title: "Casa del Tramezzo di Legno"
+title: Casa del Tramezzo di Legno
 date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski

@@ -1,8 +1,8 @@
 ---
-gre_id: "5d8f30d0fd"
+gre_id: 5d8f30d0fd
 aliases: [/id/5d8f30d0fd]
 type: place
-title: "Gallia Lugdunensis"
+title: Gallia Lugdunensis
 latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name

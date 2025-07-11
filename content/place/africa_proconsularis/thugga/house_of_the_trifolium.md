@@ -1,8 +1,8 @@
 ---
-gre_id: "b1bc5e5927"
+gre_id: b1bc5e5927
 aliases: [/id/b1bc5e5927]
 type: garden
-title: "House of the Trifolium (Maison du Trifolium)"
+title: House of the Trifolium (Maison du Trifolium)
 latlon: [ 36.422473, 9.218866 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Nicholas Gill

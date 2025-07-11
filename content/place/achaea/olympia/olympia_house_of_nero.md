@@ -1,8 +1,8 @@
 ---
-gre_id: "c6200cef9d"
+gre_id: c6200cef9d
 aliases: [/id/c6200cef9d]
 type: garden
-title: "House of Nero"
+title: House of Nero
 latlon: [ 37.637820, 21.631715 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri

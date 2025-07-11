@@ -1,8 +1,8 @@
 ---
-gre_id: "34974ad663"
+gre_id: 34974ad663
 aliases: [/id/34974ad663]
 type: garden
-title: "Tomb Garden of L. Ogius Patroclus"
+title: Tomb Garden of L. Ogius Patroclus
 latlon: [ 45.956108, 18.683919 ]
 author: John Bodel
 contributor: Zhenrui Mei

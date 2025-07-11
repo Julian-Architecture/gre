@@ -1,8 +1,8 @@
 ---
-gre_id: "4433de6246"
+gre_id: 4433de6246
 aliases: [/id/4433de6246]
 type: garden
-title: "II.i.3-7"
+title: II.i.3-7
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

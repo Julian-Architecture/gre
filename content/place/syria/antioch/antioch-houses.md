@@ -1,8 +1,8 @@
 ---
-gre_id: "350811178b"
+gre_id: 350811178b
 aliases: [/id/350811178b]
 type: garden
-title: "Private Houses at Antioch"
+title: Private Houses at Antioch
 latlon: [ 36.222551, 36.183214 ]
 author: Christine Kondoleon, Elizabeth Macaulay
 contributor: Jane Millar

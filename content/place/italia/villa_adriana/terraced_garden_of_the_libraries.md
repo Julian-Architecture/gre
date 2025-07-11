@@ -1,8 +1,8 @@
 ---
-gre_id: "f563fc2fb8"
+gre_id: f563fc2fb8
 aliases: [/id/f563fc2fb8]
 type: garden
-title: "Terraced garden of the Libraries (Fig. 1, n. 8)"
+title: Terraced garden of the Libraries (Fig. 1, n. 8)
 latlon: [ 41.942614, 12.776359 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Joshua Rosenheim

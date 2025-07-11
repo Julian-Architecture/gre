@@ -1,8 +1,8 @@
 ---
-gre_id: "b8bb57e320"
+gre_id: b8bb57e320
 aliases: [/id/b8bb57e320]
 type: garden
-title: "II.8.1"
+title: II.8.1
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

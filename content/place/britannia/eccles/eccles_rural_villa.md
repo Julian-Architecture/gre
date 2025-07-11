@@ -1,8 +1,8 @@
 ---
-gre_id: "a4cf8fcabe"
+gre_id: a4cf8fcabe
 aliases: [/id/a4cf8fcabe]
 type: garden
-title: "Rural Villa in Eccles"
+title: Rural Villa in Eccles
 latlon: [ 51.318926, 0.479999 ]
 author: Maureen Carroll
 contributor: June Dorsch

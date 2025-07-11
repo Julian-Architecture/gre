@@ -1,8 +1,8 @@
 ---
-gre_id: "6d58326d51"
+gre_id: 6d58326d51
 aliases: [/id/6d58326d51]
 type: garden
-title: "VIII.7.10. Shop-House"
+title: VIII.7.10. Shop-House
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

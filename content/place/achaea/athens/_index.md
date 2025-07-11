@@ -1,8 +1,8 @@
 ---
-gre_id: "4ade66dff9"
+gre_id: 4ade66dff9
 aliases: [/id/4ade66dff9]
 type: place
-title: "Athens"
+title: Athens
 latlon: [ 0, 0 ]
 author: 
 editor: Keith Jenkins

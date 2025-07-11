@@ -1,8 +1,8 @@
 ---
-gre_id: "fed58129af"
+gre_id: fed58129af
 aliases: [/id/fed58129af]
 type: garden
-title: "Casa del bel Cortile"
+title: Casa del bel Cortile
 date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski

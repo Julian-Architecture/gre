@@ -1,8 +1,8 @@
 ---
-gre_id: "47d674ad67"
+gre_id: 47d674ad67
 aliases: [/id/47d674ad67]
 type: garden
-title: "VIII.7.11."
+title: VIII.7.11.
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

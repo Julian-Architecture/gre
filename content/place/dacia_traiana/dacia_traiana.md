@@ -1,8 +1,8 @@
 ---
-gre_id: "67d01a709a"
+gre_id: 67d01a709a
 aliases: [/id/67d01a709a]
 type: place
-title: "Dacia Traiana"
+title: Dacia Traiana
 latlon: [ 47.5, 22.5 ]
 author: John Bodel
 contributor: June Dorsch

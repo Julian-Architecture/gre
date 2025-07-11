@@ -1,8 +1,8 @@
 ---
-gre_id: "289bfad426"
+gre_id: 289bfad426
 aliases: [/id/289bfad426]
 type: garden
-title: "Tomb Garden of Anonymous"
+title: Tomb Garden of Anonymous
 latlon: [ 0, 0 ]
 author: John Bodel
 contributor: Yuyao Liu

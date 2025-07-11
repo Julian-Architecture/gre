@@ -1,8 +1,8 @@
 ---
-gre_id: "45ba2b3b74"
+gre_id: 45ba2b3b74
 aliases: [/id/45ba2b3b74]
 type: garden
-title: "Villa Sao Cucufate"
+title: Villa Sao Cucufate
 latlon: [ 38.223820, -7.845952 ]
 author:
 contributor: Xingjian Wang

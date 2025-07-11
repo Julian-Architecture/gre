@@ -1,5 +1,5 @@
 ---
-title: "People"
+title: People
 aliases: [/contributors]
 contributor: Christian Casey, David Ratzan, Divya Kumar-Dumas
 date: 2021-04-20
@@ -16,7 +16,7 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 - \*\* Corresponding editor
 
 ## Executive Editors & Digital Humanities Team
-- [Kathryn Gleason](kathryn-gleason), Cornell University, Director & Editor-in-Chief 
+- [Kathryn Gleason](kathryn-gleason), Cornell University, Director & Editor-in-Chief
 - [Amina-Aïcha Malek](amina-aicha-malek), AOROC, CNRS ENS PSL, Director & Editor-in-Chief
 - [Divya Kumar-Dumas](divya-kumar-dumas), ISAW/NYU, Managing Editor & Digital Strategy Coordinator
 - [Keith Jenkins](keith-jenkins), Cornell University, Technical Lead
@@ -161,20 +161,20 @@ AOROC UMR 8546 CNRS-ENS-PSL
 #### Hispania Tarraconensis
 - *Trinidad Nogales Basarreta*
 - *José María Álvarez Martínez*
-- *Marguerita Orfila*  
+- *Marguerita Orfila*
 - *Clopper Almon*\*
 
 #### Hispania Lusitania
 - *Jorge de Alarcão*
 - *Trinidad Nogales Basarreta*
 - *José María Álvarez Martínez*
-- *Marguerita Orfila*  
+- *Marguerita Orfila*
 - *Clopper Almon*\*
 
 #### Hispania Baetica
 - *Trinidad Nogales Basarreta*
 - *José María Álvarez Martínez*
-- *Marguerita Orfila*  
+- *Marguerita Orfila*
 - *Clopper Almon*\*
 
 #### Italia
@@ -357,7 +357,7 @@ Another team has worked with Keith Jenkins on the GIS mapping projects since 201
 
 Special thanks to the 2020 ISAW digital scholarly communications summer interns, who helped us to develop the basic templates and workflows: June Dorsch and Amartya Sen.
 
-The current version of *Gardens of the Roman Empire* is built on the hard work of many professionals and students who prepared the original manuscript and illustrations since the 1990s.  
+The current version of *Gardens of the Roman Empire* is built on the hard work of many professionals and students who prepared the original manuscript and illustrations since the 1990s.
 
 *Manuscript and graphics editors*\
 Michele Palmer, Templeton Associates (2006-2021), Catherine Kearns, University of Chicago (2009-2012), Maureen Bolton, Independent Researcher (2008-2010), Clopper Almon, University of Maryland (2000-2011), Jacqueline Clinton, Cambridge University Press (2008-2010), and Irene Romano, University of Arizona (2001-2005), Victoria I (1988-2010), Kim Wilczak (2012-2015), Pamela Brown (2000-2005)

@@ -1,8 +1,8 @@
 ---
-gre_id: "61573de869"
+gre_id: 61573de869
 aliases: [/id/61573de869]
 type: garden
-title: "Tomb Garden of Ti. Claudios Lykos"
+title: Tomb Garden of Ti. Claudios Lykos
 latlon: [ 40.628342, 22.952885 ]
 author: John Bodel
 contributor: Amartya Shri

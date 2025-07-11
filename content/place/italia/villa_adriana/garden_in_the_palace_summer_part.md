@@ -1,8 +1,8 @@
 ---
-gre_id: "97d9f0dc81"
+gre_id: 97d9f0dc81
 aliases: [/id/97d9f0dc81]
 type: garden
-title: "Garden in the Palace Summer part (Fig. 1, n. 14)"
+title: Garden in the Palace Summer part (Fig. 1, n. 14)
 latlon: [ 41.941501, 12.776125 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Joshua Rosenheim

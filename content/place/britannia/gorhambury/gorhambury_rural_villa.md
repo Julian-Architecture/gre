@@ -1,8 +1,8 @@
 ---
-gre_id: "e3a26a1b3d"
+gre_id: e3a26a1b3d
 aliases: [/id/e3a26a1b3d]
 type: garden
-title: "Rural Villa in Gorhambury"
+title: Rural Villa in Gorhambury
 latlon: [ 51.753814, -0.382679 ]
 author: Maureen Carroll
 contributor: June Dorsch

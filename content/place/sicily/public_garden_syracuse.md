@@ -1,8 +1,8 @@
 ---
-gre_id: "3f0bf85c66"
+gre_id: 3f0bf85c66
 aliases: [/id/3f0bf85c66]
 type: garden
-title: "PUBLIC GARDEN Syracuse"
+title: PUBLIC GARDEN Syracuse
 latlon: [ 37.069402, 15.276704 ]
 author: Roger Wilson
 contributor: Chen Chen

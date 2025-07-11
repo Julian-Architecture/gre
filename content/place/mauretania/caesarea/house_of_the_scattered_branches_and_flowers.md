@@ -1,8 +1,8 @@
 ---
-gre_id: "f131b6a9bb"
+gre_id: f131b6a9bb
 aliases: [/id/f131b6a9bb]
 type: garden
-title: "House of the Scattered Branches and Flowers (Maison de la Jonchée)"
+title: House of the Scattered Branches and Flowers (Maison de la Jonchée)
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Brandon Wilson

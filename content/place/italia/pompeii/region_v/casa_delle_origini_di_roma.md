@@ -1,8 +1,8 @@
 ---
-gre_id: "03dd007afd"
+gre_id: 03dd007afd
 aliases: [/id/03dd007afd]
 type: garden
-title: "Casa Delle Origini di Roma; House of M. Fabius Secundus (V.iv.13.)"
+title: Casa Delle Origini di Roma; House of M. Fabius Secundus (V.iv.13.)
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: Jianing Zhou

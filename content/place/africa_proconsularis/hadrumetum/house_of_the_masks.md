@@ -1,8 +1,8 @@
 ---
-gre_id: "9c2aeaab58"
+gre_id: 9c2aeaab58
 aliases: [/id/9c2aeaab58]
 type: garden
-title: "House of the Masks (Maison des Masques)"
+title: House of the Masks (Maison des Masques)
 latlon: [ 35.825866, 10.63878 ]
 author: Maureen Carroll, Amina-Aïcha Malek
 contributor: Yuming Huang

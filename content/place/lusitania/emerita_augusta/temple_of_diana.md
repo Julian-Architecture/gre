@@ -1,8 +1,8 @@
 ---
-gre_id: "aa75859597"
+gre_id: aa75859597
 aliases: [/id/aa75859597]
 type: garden
-title: "Temple of Diana"
+title: Temple of Diana
 latlon: [ 38.917216, -6.341213 ]
 author:
 contributor: Yiyun Liu

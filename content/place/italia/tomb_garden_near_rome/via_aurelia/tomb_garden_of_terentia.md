@@ -1,8 +1,8 @@
 ---
-gre_id: "ba3b853a83"
+gre_id: ba3b853a83
 aliases: [/id/ba3b853a83]
 type: garden
-title: "Tomb Garden of Terentia"
+title: Tomb Garden of Terentia
 latlon: [ 0, 0 ]
 author: John Bodel
 contributor: Yuyao Liu

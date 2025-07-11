@@ -1,8 +1,8 @@
 ---
-gre_id: "65237359b2"
+gre_id: 65237359b2
 aliases: [/id/65237359b2]
 type: garden
-title: "Palace of Hyrcanus the Tobiad"
+title: Palace of Hyrcanus the Tobiad
 latlon: [ 31.912796, 35.751922 ]
 author: Kathryn Gleason, Leigh-Ann Bedal
 contributor: Jane Millar

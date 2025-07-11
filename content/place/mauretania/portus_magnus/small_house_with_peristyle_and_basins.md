@@ -1,8 +1,8 @@
 ---
-gre_id: "66554c8a9a"
+gre_id: 66554c8a9a
 aliases: [/id/66554c8a9a]
 type: garden
-title: "Small House with peristyle and basins"
+title: Small House with peristyle and basins
 latlon: [ 52.055419, -0.795092 ]
 author: Amina-Aïcha Malek
 contributor: Brandon Wilson

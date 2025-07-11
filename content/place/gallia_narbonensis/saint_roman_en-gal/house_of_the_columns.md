@@ -1,8 +1,8 @@
 ---
-gre_id: "8c6ccd67f1"
+gre_id: 8c6ccd67f1
 aliases: [/id/8c6ccd67f1]
 type: garden
-title: "House of the Columns"
+title: House of the Columns
 latlon: [ 42.439512, 3.176623 ]
 author: Eric Morvillez, Emilie Chassillan
 contributor: Yichen Liu

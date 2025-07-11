@@ -1,8 +1,8 @@
 ---
-gre_id: "66f25084eb"
+gre_id: 66f25084eb
 aliases: [/id/66f25084eb]
 type: garden
-title: "Villa in the Casale district near Piazza Armerina"
+title: Villa in the Casale district near Piazza Armerina
 latlon: [ 0, 0 ]
 author: Roger Wilson
 contributor: Chen Chen

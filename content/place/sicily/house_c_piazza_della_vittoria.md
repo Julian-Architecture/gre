@@ -1,8 +1,8 @@
 ---
-gre_id: "098e103ad4"
+gre_id: 098e103ad4
 aliases: [/id/098e103ad4]
 type: garden
-title: "House C, Piazza della Vittoria"
+title: House C, Piazza della Vittoria
 latlon: [ 38.11127, 13.353442 ]
 author: Roger Wilson
 contributor: Chen Chen

@@ -1,8 +1,8 @@
 ---
-gre_id: "b43a41fef1"
+gre_id: b43a41fef1
 aliases: [/id/b43a41fef1]
 type: garden
-title: "Villa de Châtillon-sur-Seiche"
+title: Villa de Châtillon-sur-Seiche
 latlon: [ 48.042566, -1.65974 ]
 author: Maureen Carroll
 contributor: Yvette Pollack

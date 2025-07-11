@@ -1,8 +1,8 @@
 ---
-gre_id: "54bd63c9c3"
+gre_id: 54bd63c9c3
 aliases: [/id/54bd63c9c3]
 type: garden
-title: "Saint-Pierre, House or Public Building"
+title: Saint-Pierre, House or Public Building
 latlon: [ 42.439512, 3.176623 ]
 author: Eric Morvillez, Emilie Chassillan
 contributor: Yichen Liu

@@ -1,8 +1,8 @@
 ---
-gre_id: "fe2902e7d3"
+gre_id: fe2902e7d3
 aliases: [/id/fe2902e7d3]
 type: garden
-title: "Palatial House in Insula 7 in Aventicum"
+title: Palatial House in Insula 7 in Aventicum
 latlon: [ 46.88008, 7.040710 ]
 author: Maureen Carroll
 contributor: June Dorsch

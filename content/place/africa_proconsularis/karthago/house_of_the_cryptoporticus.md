@@ -1,8 +1,8 @@
 ---
-gre_id: "98c1ec1c8c"
+gre_id: 98c1ec1c8c
 aliases: [/id/98c1ec1c8c]
 type: garden
-title: "House of the Cryptoporticus (Maison du Cryptoportique)"
+title: House of the Cryptoporticus (Maison du Cryptoportique)
 latlon: [ 36.857260, 10.331488 ]
 author: Amina-Aïcha Malek
 contributor: Xue Xia

@@ -1,8 +1,8 @@
 ---
-gre_id: "3001682999"
+gre_id: 3001682999
 aliases: [/id/3001682999]
 type: garden
-title: "House of Sertius (Maison de Sertius)"
+title: House of Sertius (Maison de Sertius)
 latlon: [ 35.485216, 6.468222 ]
 author: Amina-Aïcha Malek
 contributor: Xue Xia

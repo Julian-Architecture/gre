@@ -1,8 +1,8 @@
 ---
-gre_id: "4624d2d32a"
+gre_id: 4624d2d32a
 aliases: [/id/4624d2d32a]
 type: garden
-title: "Aphrodisias (Lelégōn Pólis,Megálē Pólis, Ninóē, Stauroúpolis)"
+title: Aphrodisias (Lelégōn Pólis,Megálē Pólis, Ninóē, Stauroúpolis)
 latlon: [ 0, 0 ]
 author: Kathryn Gleason
 contributor: Shamika Ghate
@@ -33,7 +33,7 @@ Place of the Palms (South Agora)
 - {{< keyword "agoras" >}}
 
 ## Garden Description
- An inscription (MAMA VIII, 448)  indicates that Artemidorus Pedias, during his term as *strategos*, promised to "adorn a palm grove with a statue of Hermes, and a gilded Aphrodite with Erotes holding lamps on either side and a marble Eros in Front" (Roueché, 70.) The location of this garden is not specified.  Robert suggests, based on the location of the inscription, that it was in the temenos of Aphrodite (Robert, 257). Roueché conjectures that it perhaps lay on the east side of the agora, based upon the presence of Hermes Agoraios (MAMA VIII, 406, 445, 446, and CIG 2770).  She proposes that the grove was later embellished by the fountain at the agora gate, where inscriptions (Hell. IV, 131-2) honor the conversion of the gate into a fountain, alluding to the *Nymphs* of the "place of the palms" (RRR Smith et al. 2018) Roueché notes that this palm-grove, with its walks, statuary, and fountains was clearly an elaborately decorated park.  The agora and *temenos* have been identified.  The south agora (215 x 70m)  features a long, monumental basin in its center.
+An inscription (MAMA VIII, 448)  indicates that Artemidorus Pedias, during his term as *strategos*, promised to "adorn a palm grove with a statue of Hermes, and a gilded Aphrodite with Erotes holding lamps on either side and a marble Eros in Front" (Roueché, 70.) The location of this garden is not specified.  Robert suggests, based on the location of the inscription, that it was in the temenos of Aphrodite (Robert, 257). Roueché conjectures that it perhaps lay on the east side of the agora, based upon the presence of Hermes Agoraios (MAMA VIII, 406, 445, 446, and CIG 2770).  She proposes that the grove was later embellished by the fountain at the agora gate, where inscriptions (Hell. IV, 131-2) honor the conversion of the gate into a fountain, alluding to the *Nymphs* of the "place of the palms" (RRR Smith et al. 2018) Roueché notes that this palm-grove, with its walks, statuary, and fountains was clearly an elaborately decorated park.  The agora and *temenos* have been identified.  The south agora (215 x 70m)  features a long, monumental basin in its center.
 
 <!--
 ## Maps

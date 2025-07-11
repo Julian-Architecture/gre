@@ -1,8 +1,8 @@
 ---
-gre_id: "38d5f876b8"
+gre_id: 38d5f876b8
 aliases: [/id/38d5f876b8]
 type: garden
-title: "La Villa des Rouaux"
+title: La Villa des Rouaux
 latlon: [ 49.118135, 6.174155 ]
 author: Maureen Carroll
 contributor: Yvette Pollack

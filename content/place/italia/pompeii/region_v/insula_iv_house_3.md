@@ -1,8 +1,8 @@
 ---
-gre_id: "c1fdd755e5"
+gre_id: c1fdd755e5
 aliases: [/id/c1fdd755e5]
 type: garden
-title: "V.iv.3"
+title: V.iv.3
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: Jianing Zhou

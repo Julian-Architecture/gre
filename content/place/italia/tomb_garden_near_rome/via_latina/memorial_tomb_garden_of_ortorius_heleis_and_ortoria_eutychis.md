@@ -1,8 +1,8 @@
 ---
-gre_id: "e1481f1f86"
+gre_id: e1481f1f86
 aliases: [/id/e1481f1f86]
 type: garden
-title: "Memorial Tomb Garden of Ortorius Heleis and Ortoria Eutychis"
+title: Memorial Tomb Garden of Ortorius Heleis and Ortoria Eutychis
 latlon: [ 41.649151, 13.194182 ]
 author: Pier Giorgio Monti
 contributor: Lingyi Xu

@@ -1,8 +1,8 @@
 ---
-gre_id: "f218fa055f"
+gre_id: f218fa055f
 aliases: [/id/f218fa055f]
 type: garden
-title: "Temple Grove of Apollo"
+title: Temple Grove of Apollo
 latlon: [ 37.384829, 27.256115 ]
 author: Kathryn Gleason
 contributor: Shamika Ghate

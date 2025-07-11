@@ -1,8 +1,8 @@
 ---
-gre_id: "fcc53d3e6e"
+gre_id: fcc53d3e6e
 aliases: [/id/fcc53d3e6e]
 type: garden
-title: "House of Icarios (Maison d'Icarios)"
+title: House of Icarios (Maison d'Icarios)
 latlon: [ 36.607458, 10.172291 ]
 author: Amina-Aïcha Malek
 contributor: Jinyi Yang

@@ -1,8 +1,8 @@
 ---
-gre_id: "08c7be3e34"
+gre_id: 08c7be3e34
 aliases: [/id/08c7be3e34]
 type: garden
-title: "Rural Villa in Ferpicloz"
+title: Rural Villa in Ferpicloz
 latlon: [ 49.214670, 8.015747 ]
 author: Maureen Carroll
 contributor: June Dorsch

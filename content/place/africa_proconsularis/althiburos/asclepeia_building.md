@@ -1,8 +1,8 @@
 ---
-gre_id: "a0f428953b"
+gre_id: a0f428953b
 aliases: [/id/a0f428953b]
 type: garden
-title: "Asclepieia Building"
+title: Asclepieia Building
 latlon: [ 35.875740, 8.786768 ]
 author: Amina-Aïcha Malek
 contributor: Yuming Huang

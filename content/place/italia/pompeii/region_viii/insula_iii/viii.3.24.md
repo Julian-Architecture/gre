@@ -1,8 +1,8 @@
 ---
-gre_id: "2ed36e182d"
+gre_id: 2ed36e182d
 aliases: [/id/2ed36e182d]
 type: garden
-title: "VIII.3.24."
+title: VIII.3.24.
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

@@ -1,8 +1,8 @@
 ---
-gre_id: "b758b14e74"
+gre_id: b758b14e74
 aliases: [/id/b758b14e74]
 type: garden
-title: "House of the Black and White Triclinium (Maison du triclinium en noir et blanc)"
+title: House of the Black and White Triclinium (Maison du triclinium en noir et blanc)
 latlon: [ 36.392591, 10.563067 ]
 author: Amina-Aïcha Malek
 contributor: Xue Xia

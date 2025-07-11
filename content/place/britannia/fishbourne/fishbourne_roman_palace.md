@@ -1,8 +1,8 @@
 ---
-gre_id: "2240426c29"
+gre_id: 2240426c29
 aliases: [/id/2240426c29]
 type: garden
-title: "Roman Palace in Fishbourne"
+title: Roman Palace in Fishbourne
 latlon: [ 50.836765, -0.809853 ]
 author: Kathryn Gleason
 contributor: June Dorsch

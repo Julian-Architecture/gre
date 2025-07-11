@@ -1,8 +1,8 @@
 ---
-gre_id: "b5400dccdb"
+gre_id: b5400dccdb
 aliases: [/id/b5400dccdb]
 type: garden
-title: "Sanctuary of Zeus"
+title: Sanctuary of Zeus
 latlon: [ 37.637939, 21.630256 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri

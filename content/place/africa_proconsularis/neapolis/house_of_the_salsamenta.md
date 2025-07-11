@@ -1,8 +1,8 @@
 ---
-gre_id: "ce9ce2060f"
+gre_id: ce9ce2060f
 aliases: [/id/ce9ce2060f]
 type: garden
-title: "House of the Salsamenta (Usine de salaison)"
+title: House of the Salsamenta (Usine de salaison)
 latlon: [ 36.438789, 10.717447 ]
 author: Amina-Aïcha Malek, Véronique Blanc-Bijon
 contributor: Xue Xia

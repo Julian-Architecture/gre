@@ -1,8 +1,8 @@
 ---
-gre_id: "94cd289c20"
+gre_id: 94cd289c20
 aliases: [/id/94cd289c20]
 type: garden
-title: "II.i.7A/11"
+title: II.i.7A/11
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski, Jessica Venner
 contributor: Jessica Venner

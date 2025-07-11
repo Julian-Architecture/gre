@@ -1,8 +1,8 @@
 ---
-gre_id: "08a99fc485"
+gre_id: 08a99fc485
 aliases: [/id/08a99fc485]
 type: garden
-title: "Herodium Palace Fortress"
+title: Herodium Palace Fortress
 latlon: [ 31.665784, 35.241750 ]
 author: Kathryn Gleason, Ehud Netzer
 contributor: Yaniv Korman

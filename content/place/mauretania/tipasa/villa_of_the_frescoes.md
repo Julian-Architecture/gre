@@ -1,8 +1,8 @@
 ---
-gre_id: "4480f4a5de"
+gre_id: 4480f4a5de
 aliases: [/id/4480f4a5de]
 type: garden
-title: "Villa of the Frescoes (La villa des Fresques)"
+title: Villa of the Frescoes (La villa des Fresques)
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Brandon Wilson

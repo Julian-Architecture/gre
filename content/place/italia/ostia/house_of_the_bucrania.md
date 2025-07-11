@@ -1,8 +1,8 @@
 ---
-gre_id: "33319891be"
+gre_id: 33319891be
 aliases: [/id/33319891be]
 type: garden
-title: "House of the Bucrania"
+title: House of the Bucrania
 latlon: [ 41.752743867143124, 12.286672797879733 ]
 author: Thomas Morard
 contributor: Joshua Rosenheim

@@ -1,8 +1,8 @@
 ---
-gre_id: "557ae46f1d"
+gre_id: 557ae46f1d
 aliases: [/id/557ae46f1d]
 type: garden
-title: "Villa de Los Villares"
+title: Villa de Los Villares
 latlon: [ 41.713123, -3.150103 ]
 author:
 contributor: Yiyun Liu

@@ -1,8 +1,8 @@
 ---
-gre_id: "fbde5b398f"
+gre_id: fbde5b398f
 aliases: [/id/fbde5b398f]
 type: garden
-title: "House of Venus (Maison de Venus)"
+title: House of Venus (Maison de Venus)
 latlon: [ 36.422473, 9.218866 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Nicholas Gill

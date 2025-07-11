@@ -1,8 +1,8 @@
 ---
-gre_id: "3ec02332d6"
+gre_id: 3ec02332d6
 aliases: [/id/3ec02332d6]
 type: garden
-title: "House of the Peacock (Maison du Paon)"
+title: House of the Peacock (Maison du Paon)
 latlon: [ 35.290182, 10.704849 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Jinyi Yang

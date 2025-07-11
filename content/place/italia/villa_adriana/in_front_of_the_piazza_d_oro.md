@@ -1,8 +1,8 @@
 ---
-gre_id: "cf1d9c7584"
+gre_id: cf1d9c7584
 aliases: [/id/cf1d9c7584]
 type: garden
-title: "The garden in front of the Piazza d'Oro (Fig. 1, n. 19)"
+title: The garden in front of the Piazza d'Oro (Fig. 1, n. 19)
 latlon: [ 41.941305, 12.778279 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Joshua Rosenheim

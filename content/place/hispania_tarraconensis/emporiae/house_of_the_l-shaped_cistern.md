@@ -1,8 +1,8 @@
 ---
-gre_id: "48566b8135"
+gre_id: 48566b8135
 aliases: [/id/48566b8135]
 type: garden
-title: "House of the L-shaped Cistern"
+title: House of the L-shaped Cistern
 latlon: [ 47.260687, 9.617966 ]
 author:
 contributor: Qianli Jiang

@@ -1,8 +1,8 @@
 ---
-gre_id: "cd3e1d562d"
+gre_id: cd3e1d562d
 aliases: [/id/cd3e1d562d]
 type: garden
-title: "Tomb Garden and Orchard of Aphrodisios and Flavia"
+title: Tomb Garden and Orchard of Aphrodisios and Flavia
 latlon: [ 37.941944, 27.339722 ]
 author: John Bodel
 contributor: Shamika Ghate

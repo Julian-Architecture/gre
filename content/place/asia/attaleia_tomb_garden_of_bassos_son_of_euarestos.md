@@ -1,8 +1,8 @@
 ---
-gre_id: "823f7f9201"
+gre_id: 823f7f9201
 aliases: [/id/823f7f9201]
 type: garden
-title: "Tomb Garden of Bassos son of Euarestos"
+title: Tomb Garden of Bassos son of Euarestos
 latlon: [ 39.071402, 27.891043 ]
 author: John Bodel
 contributor: Shamika Ghate

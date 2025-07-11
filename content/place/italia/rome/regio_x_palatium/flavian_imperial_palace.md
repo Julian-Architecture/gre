@@ -1,8 +1,8 @@
 ---
-gre_id: "dd43da939d"
+gre_id: dd43da939d
 aliases: [/id/dd43da939d]
 type: garden
-title: "Garden of the Flavian Imperial Palace"
+title: Garden of the Flavian Imperial Palace
 latlon: [ 41.889306, 12.487109 ]
 author: Jean-Paul Morel, Françoise Villedieu
 contributor: Rhiannon Paré

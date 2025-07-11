@@ -1,8 +1,8 @@
 ---
-gre_id: "ba47943440"
+gre_id: ba47943440
 aliases: [/id/ba47943440]
 type: garden
-title: "House of the Thunderbolt (Domus Fulminata)"
+title: House of the Thunderbolt (Domus Fulminata)
 latlon: [ 41.750839672367256, 12.285040670892728 ]
 author: Paola Olivanti
 contributor: Joshua Rosenheim

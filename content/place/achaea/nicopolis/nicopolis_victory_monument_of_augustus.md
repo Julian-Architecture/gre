@@ -1,8 +1,8 @@
 ---
-gre_id: "8699336534"
+gre_id: 8699336534
 aliases: [/id/8699336534]
 type: garden
-title: "Victory Monument of Augustus"
+title: Victory Monument of Augustus
 latlon: [ 39.027735, 20.735583 ]
 author: "?"
 contributor: Jane Millar, Amartya Shri

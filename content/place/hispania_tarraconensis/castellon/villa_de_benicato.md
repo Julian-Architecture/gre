@@ -1,8 +1,8 @@
 ---
-gre_id: "aa2406afa4"
+gre_id: aa2406afa4
 aliases: [/id/aa2406afa4]
 type: garden
-title: "Villa de Benicató"
+title: Villa de Benicató
 latlon: [ 39.832943, -0.14602 ]
 author:
 contributor: Xingjian Wang

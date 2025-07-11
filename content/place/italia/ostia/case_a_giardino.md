@@ -1,8 +1,8 @@
 ---
-gre_id: "6425fe15f5"
+gre_id: 6425fe15f5
 aliases: [/id/6425fe15f5]
 type: garden
-title: "Garden Houses (Case a Giardino)"
+title: Garden Houses (Case a Giardino)
 latlon: [ 41.751911781895046, 12.28455095873102 ]
 author: Paola Olivanti
 contributor: Joshua Rosenheim

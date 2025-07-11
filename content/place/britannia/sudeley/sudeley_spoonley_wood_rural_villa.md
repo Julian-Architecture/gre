@@ -1,8 +1,8 @@
 ---
-gre_id: "99193ac2fa"
+gre_id: 99193ac2fa
 aliases: [/id/99193ac2fa]
 type: garden
-title: "Rural Villa in Sudeley/Spoonley Wood"
+title: Rural Villa in Sudeley/Spoonley Wood
 latlon: [ 51.940896, -1.927588 ]
 author: Maureen Carroll
 contributor: June Dorsch

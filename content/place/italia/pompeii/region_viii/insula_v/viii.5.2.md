@@ -1,8 +1,8 @@
 ---
-gre_id: "05618c615c"
+gre_id: 05618c615c
 aliases: [/id/05618c615c]
 type: garden
-title: "VIII.5.2. Casa del Gallo; House of the Cock"
+title: VIII.5.2. Casa del Gallo; House of the Cock
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

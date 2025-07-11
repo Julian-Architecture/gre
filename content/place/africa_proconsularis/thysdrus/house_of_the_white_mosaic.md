@@ -1,8 +1,8 @@
 ---
-gre_id: "5c5caec7d3"
+gre_id: 5c5caec7d3
 aliases: [/id/5c5caec7d3]
 type: garden
-title: "House of the White Mosaic (Maison des mosaïques blanches)"
+title: House of the White Mosaic (Maison des mosaïques blanches)
 latlon: [ 35.290828, 10.705481 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Jinyi Yang

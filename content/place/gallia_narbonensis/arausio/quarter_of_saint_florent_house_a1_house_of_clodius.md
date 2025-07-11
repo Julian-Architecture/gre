@@ -1,8 +1,8 @@
 ---
-gre_id: "b5702d8da8"
+gre_id: b5702d8da8
 aliases: [/id/b5702d8da8]
 type: garden
-title: "Quarter of Saint-Florent – House A1, House of Clodius"
+title: Quarter of Saint-Florent - House A1, House of Clodius
 latlon: [ 42.439512, 3.176623 ]
 author: Eric Morvillez, Emilie Chassillan
 contributor: Yichen Liu

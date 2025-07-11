@@ -1,8 +1,8 @@
 ---
-gre_id: "21eea814e6"
+gre_id: 21eea814e6
 aliases: [/id/21eea814e6]
 type: garden
-title: "Sanctuary of Apollo and the Nymphs"
+title: Sanctuary of Apollo and the Nymphs
 latlon: [ 38.585688, 23.044957 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri

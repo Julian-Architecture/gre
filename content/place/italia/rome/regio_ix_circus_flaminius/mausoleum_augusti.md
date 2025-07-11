@@ -1,8 +1,8 @@
 ---
-gre_id: "ac531a92fb"
+gre_id: ac531a92fb
 aliases: [/id/ac531a92fb]
 type: garden
-title: "Mausoleum Augusti"
+title: Mausoleum Augusti
 latlon: [ 41.906030, 12.476423 ]
 author: Elizabeth Macaulay
 contributor: Joshua Rosenheim, Rhiannon Paré

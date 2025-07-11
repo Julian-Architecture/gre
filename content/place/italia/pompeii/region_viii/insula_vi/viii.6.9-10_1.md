@@ -1,8 +1,8 @@
 ---
-gre_id: "e7fd2f5bf2"
+gre_id: e7fd2f5bf2
 aliases: [/id/e7fd2f5bf2]
 type: garden
-title: "VIII.6.9-10/1. House and Bakery"
+title: VIII.6.9-10/1. House and Bakery
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

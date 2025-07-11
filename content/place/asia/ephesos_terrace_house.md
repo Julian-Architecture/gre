@@ -1,8 +1,8 @@
 ---
-gre_id: "a59bfedb41"
+gre_id: a59bfedb41
 aliases: [/id/a59bfedb41]
 type: garden
-title: "Terrace House 2"
+title: Terrace House 2
 latlon: [ 37.944523, 27.351764 ]
 author: Kathryn Gleason
 contributor: Shamika Ghate

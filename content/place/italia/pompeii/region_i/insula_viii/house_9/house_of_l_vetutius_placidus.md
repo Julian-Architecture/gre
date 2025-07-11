@@ -1,8 +1,8 @@
 ---
-gre_id: "f9106fc722"
+gre_id: f9106fc722
 aliases: [/id/f9106fc722]
 type: garden
-title: "House of L. Vetutius Placidus and Ascula (at the rear of Themopolium no. 8) (I.viii.9)"
+title: House of L. Vetutius Placidus and Ascula (at the rear of Themopolium no. 8) (I.viii.9)
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: June Dorsch

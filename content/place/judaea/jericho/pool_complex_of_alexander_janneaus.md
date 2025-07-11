@@ -1,8 +1,8 @@
 ---
-gre_id: "f2b1ae794d"
+gre_id: f2b1ae794d
 aliases: [/id/f2b1ae794d]
 type: garden
-title: "Jericho Pool Complex of Alexander Janneaus"
+title: Jericho Pool Complex of Alexander Janneaus
 latlon: [ 31.853511, 35.433756 ]
 author: Kathryn Gleason, Ehud Netzer
 contributor: Yaniv Korman

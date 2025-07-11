@@ -1,8 +1,8 @@
 ---
-gre_id: "5eba2c564c"
+gre_id: 5eba2c564c
 aliases: [/id/5eba2c564c]
 type: place
-title: "Macedonia"
+title: Macedonia
 date: 2020-07-16
 author:
 contributor: Amartya Shri

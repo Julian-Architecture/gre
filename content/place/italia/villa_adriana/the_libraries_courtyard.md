@@ -1,8 +1,8 @@
 ---
-gre_id: "2b5063bf49"
+gre_id: 2b5063bf49
 aliases: [/id/2b5063bf49]
 type: garden
-title: "The Libraries' Courtyard (Fig. 1, n. 13)"
+title: The Libraries' Courtyard (Fig. 1, n. 13)
 latlon: [ 41.943021, 12.776021 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Joshua Rosenheim

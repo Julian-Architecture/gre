@@ -1,8 +1,8 @@
 ---
-gre_id: "9c9086c4dd"
+gre_id: 9c9086c4dd
 aliases: [/id/9c9086c4dd]
 type: garden
-title: "VIII.4.26-29. Bakery and House of Felix"
+title: VIII.4.26-29. Bakery and House of Felix
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

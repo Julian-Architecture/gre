@@ -1,5 +1,5 @@
 ---
-title: "Contribute"
+title: Contribute
 author:
 contributor: Christian Casey
 date: 2021-04-13

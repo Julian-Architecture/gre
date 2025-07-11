@@ -1,8 +1,8 @@
 ---
-gre_id: "b6f1f6afd8"
+gre_id: b6f1f6afd8
 aliases: [/id/b6f1f6afd8]
 type: garden
-title: "Enclos Reynaud, House of the pool with apses"
+title: Enclos Reynaud, House of the pool with apses
 latlon: [ 42.439512, 3.176623 ]
 author: Eric Morvillez, Emilie Chassillan
 contributor: Yichen Liu

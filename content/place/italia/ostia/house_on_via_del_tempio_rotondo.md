@@ -1,8 +1,8 @@
 ---
-gre_id: "5cdeb84b3f"
+gre_id: 5cdeb84b3f
 aliases: [/id/5cdeb84b3f]
 type: garden
-title: "House on Via del Tempio Rotondo"
+title: House on Via del Tempio Rotondo
 latlon: [ 41.753312445649286, 12.288591244178454 ]
 author: Paola Olivanti
 contributor: Joshua Rosenheim

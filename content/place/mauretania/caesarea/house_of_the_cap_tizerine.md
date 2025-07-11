@@ -1,8 +1,8 @@
 ---
-gre_id: "b864bdc866"
+gre_id: b864bdc866
 aliases: [/id/b864bdc866]
 type: garden
-title: "House of the Tizerine Cape (Maison du Cap Tizerine)"
+title: House of the Tizerine Cape (Maison du Cap Tizerine)
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Brandon Wilson

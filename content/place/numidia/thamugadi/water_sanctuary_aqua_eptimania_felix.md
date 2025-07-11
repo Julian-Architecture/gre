@@ -1,8 +1,8 @@
 ---
-gre_id: "87cb5112c9"
+gre_id: 87cb5112c9
 aliases: [/id/87cb5112c9]
 type: garden
-title: "Water Sanctuary Aqua Septimiana Felix (Sanctuaire des eaux)"
+title: Water Sanctuary Aqua Septimiana Felix (Sanctuaire des eaux)
 latlon: [ 35.485216, 6.468222 ]
 author: Amina-Aïcha Malek
 contributor: Xue Xia

@@ -1,8 +1,8 @@
 ---
-gre_id: "9621487dec"
+gre_id: 9621487dec
 aliases: [/id/9621487dec]
 type: garden
-title: "House with Garden, rue des Capucins"
+title: House with Garden, rue des Capucins
 latlon: [ 49.253877, 4.033055 ]
 author: Maureen Carroll
 contributor: Yvette Pollack

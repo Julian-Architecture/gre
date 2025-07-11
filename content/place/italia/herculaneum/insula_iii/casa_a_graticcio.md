@@ -1,8 +1,8 @@
 ---
-gre_id: "470d20177b"
+gre_id: 470d20177b
 aliases: [/id/470d20177b]
 type: garden
-title: "Casa A Graticcio"
+title: Casa A Graticcio
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 contributor: Tiffany Y. Fong

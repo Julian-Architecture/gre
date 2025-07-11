@@ -1,8 +1,8 @@
 ---
-gre_id: "465f868852"
+gre_id: 465f868852
 aliases: [/id/465f868852]
 type: garden
-title: "Leonidaion"
+title: Leonidaion
 latlon: [ 37.637701, 21.628797 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri

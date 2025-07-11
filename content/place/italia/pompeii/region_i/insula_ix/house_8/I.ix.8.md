@@ -1,8 +1,8 @@
 ---
-gre_id: "1d33c91c11"
+gre_id: 1d33c91c11
 aliases: [/id/1d33c91c11]
 type: garden
-title: "I.ix.8"
+title: I.ix.8
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: June Dorsch

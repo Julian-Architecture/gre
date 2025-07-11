@@ -1,8 +1,8 @@
 ---
-gre_id: "278abf125d"
+gre_id: 278abf125d
 aliases: [/id/278abf125d]
 type: garden
-title: "theaters"
+title: theaters
 latlon: [ 41.116892, 1.258337 ]
 author:
 contributor: Yiyun Liu

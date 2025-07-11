@@ -1,8 +1,8 @@
 ---
-gre_id: "cf9b8b7e86"
+gre_id: cf9b8b7e86
 aliases: [/id/cf9b8b7e86]
 type: garden
-title: "House of Dionysos"
+title: House of Dionysos
 latlon: [ 36.858276, 10.331915 ]
 author: Amina-Aïcha Malek
 contributor: Xue Xia

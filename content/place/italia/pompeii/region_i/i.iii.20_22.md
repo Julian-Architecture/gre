@@ -1,8 +1,8 @@
 ---
-gre_id: "84fd82106c"
+gre_id: 84fd82106c
 aliases: [/id/84fd82106c]
 type: garden
-title: "I.3.20/22"
+title: I.3.20/22
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

@@ -1,8 +1,8 @@
 ---
-gre_id: "05a3200a68"
+gre_id: 05a3200a68
 aliases: [/id/05a3200a68]
 type: garden
-title: "Villa of Fortunatus"
+title: Villa of Fortunatus
 latlon: [ 0, 0 ]
 author:
 contributor: Qianli Jiang

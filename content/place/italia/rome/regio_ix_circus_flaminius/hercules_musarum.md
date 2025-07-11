@@ -1,8 +1,8 @@
 ---
-gre_id: "007c015ec1"
+gre_id: 007c015ec1
 aliases: [/id/007c015ec1]
 type: garden
-title: "Hercules Musarum"
+title: Hercules Musarum
 latlon: [ 41.891775, 12.486137 ]
 author: Elizabeth Macaulay, Linda Anderson
 contributor: Joshua Rosenheim, Rhiannon Paré

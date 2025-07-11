@@ -1,8 +1,8 @@
 ---
-gre_id: "729da9e010"
+gre_id: 729da9e010
 aliases: [/id/729da9e010]
 type: garden
-title: "I.4.5/25 House of the Citharist"
+title: I.4.5/25 House of the Citharist
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

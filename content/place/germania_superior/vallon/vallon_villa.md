@@ -1,8 +1,8 @@
 ---
-gre_id: "a20916db0f"
+gre_id: a20916db0f
 aliases: [/id/a20916db0f]
 type: garden
-title: "Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)"
+title: Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)
 latlon: [ 49.214670, 8.015747 ]
 author: Michel Fuchs, Jacques Monnier
 contributor: June Dorsch

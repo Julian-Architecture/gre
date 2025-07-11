@@ -55,7 +55,6 @@
 
 # Documentation
 
-- winget upgrade hugo
 - installing software on Mac
     - vscode
     - git
@@ -67,10 +66,7 @@
             /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
         - brew install hugo
         - Or, if using MacPorts: sudo port install hugo
-
-- [ ] snippets for shortcodes! id, image, keyword (type and then press CTRL-SPACE)
-- [ ] use \" to escape any quotes within a caption
-- [ ] frontmatter quoting: only for title
+- [ ] use \" to escape any quotes within an image caption
 - [ ] workflow for simplest way to add a new garden/place? ("hugo new" requires path, but will set the GRE_ID, etc.)
 
 # Article Guidelines

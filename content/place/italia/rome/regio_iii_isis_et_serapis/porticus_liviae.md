@@ -1,8 +1,8 @@
 ---
-gre_id: "18a75adaf8"
+gre_id: 18a75adaf8
 aliases: [/id/18a75adaf8]
 type: garden
-title: "Porticus Liviae"
+title: Porticus Liviae
 latlon: [ 41.891775, 12.486137 ]
 author: Elizabeth Macaulay, Holly Spoth-Torres
 contributor: Joshua Rosenheim, Rhiannon Paré

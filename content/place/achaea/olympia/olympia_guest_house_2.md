@@ -1,8 +1,8 @@
 ---
-gre_id: "70c1807d8f"
+gre_id: 70c1807d8f
 aliases: [/id/70c1807d8f]
 type: garden
-title: "Guest House 2"
+title: Guest House 2
 latlon: [ 37.637590, 21.628024 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri

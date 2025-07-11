@@ -1,8 +1,8 @@
 ---
-gre_id: "5c1a7e251d"
+gre_id: 5c1a7e251d
 aliases: [/id/5c1a7e251d]
 type: garden
-title: "Caesarea Maritima Byzantine Law Court and Roof Garden"
+title: Caesarea Maritima Byzantine Law Court and Roof Garden
 latlon: [ 32.501237, 34.89151 ]
 author: Joseph Patrich
 contributor: Yaniv Korman

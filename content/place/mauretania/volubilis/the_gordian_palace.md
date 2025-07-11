@@ -1,8 +1,8 @@
 ---
-gre_id: "858cfbe95d"
+gre_id: 858cfbe95d
 aliases: [/id/858cfbe95d]
 type: garden
-title: "The Gordian Palace (Le palais dit de Gordien)"
+title: The Gordian Palace (Le palais dit de Gordien)
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Brandon Wilson

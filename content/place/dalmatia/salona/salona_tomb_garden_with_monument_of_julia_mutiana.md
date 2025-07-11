@@ -1,8 +1,8 @@
 ---
-gre_id: "882c5522a4"
+gre_id: 882c5522a4
 aliases: [/id/882c5522a4]
 type: garden
-title: "Tomb Garden with Monument of Julia Mutiana"
+title: Tomb Garden with Monument of Julia Mutiana
 latlon: [ 43.539561, 16.483426 ]
 author: John Bodel
 contributor: Christian Casey

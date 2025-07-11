@@ -1,8 +1,8 @@
 ---
-gre_id: "2237720cc1"
+gre_id: 2237720cc1
 aliases: [/id/2237720cc1]
 type: garden
-title: "Palace of the Giants"
+title: Palace of the Giants
 latlon: [ 37.974611, 23.722431 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri

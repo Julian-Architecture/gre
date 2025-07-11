@@ -1,8 +1,8 @@
 ---
-gre_id: "c2d36cf1df"
+gre_id: c2d36cf1df
 aliases: [/id/c2d36cf1df]
 type: garden
-title: "I.2.10 House of L. Vousius Faustus and M. Volusius Faustus"
+title: I.2.10 House of L. Vousius Faustus and M. Volusius Faustus
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

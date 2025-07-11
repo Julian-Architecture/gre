@@ -1,8 +1,8 @@
 ---
-gre_id: "ab8009da1e"
+gre_id: ab8009da1e
 aliases: [/id/ab8009da1e]
 type: garden
-title: "Villa Romana"
+title: Villa Romana
 latlon: [ 0, 0 ]
 author:
 contributor: Qianli Jiang

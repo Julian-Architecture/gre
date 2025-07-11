@@ -1,8 +1,8 @@
 ---
-gre_id: "9d91dd8940"
+gre_id: 9d91dd8940
 aliases: [/id/9d91dd8940]
 type: garden
-title: "Jericho Herodian Third Palace Sunken Garden"
+title: Jericho Herodian Third Palace Sunken Garden
 latlon: [ 31.853621, 35.434882 ]
 author: Kathryn Gleason
 contributor: Yaniv Korman

@@ -1,8 +1,8 @@
 ---
-gre_id: "a268867d07"
+gre_id: a268867d07
 aliases: [/id/a268867d07]
 type: garden
-title: "Rural Villa in Bancroft"
+title: Rural Villa in Bancroft
 latlon: [ 52.055419, -0.795092 ]
 author: Maureen Carroll
 contributor: June Dorsch, Jane Millar

@@ -1,8 +1,8 @@
 ---
-gre_id: "dc6198eba1"
+gre_id: dc6198eba1
 aliases: [/id/dc6198eba1]
 type: garden
-title: "Caupona, VI.I.1"
+title: Caupona, VI.I.1
 latlon: [ 40.749738, 14.489882 ]
 author: Wilhelmina Jashemski
 contributor: Claire Campbell

@@ -1,8 +1,8 @@
 ---
-gre_id: "ed6a8dfedd"
+gre_id: ed6a8dfedd
 aliases: [/id/ed6a8dfedd]
 type: garden
-title: "Urban Houses in Carnuntum"
+title: Urban Houses in Carnuntum
 latlon: [ 48.113346, 16.867891 ]
 author: Maureen Carroll
 contributor: June Dorsch

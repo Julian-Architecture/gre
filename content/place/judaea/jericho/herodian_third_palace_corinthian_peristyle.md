@@ -1,8 +1,8 @@
 ---
-gre_id: "d23ef39a54"
+gre_id: d23ef39a54
 aliases: [/id/d23ef39a54]
 type: garden
-title: "Jericho Herodian Third Palace Corinthian Peristyle"
+title: Jericho Herodian Third Palace Corinthian Peristyle
 latlon: [ 31.853621, 35.434882 ]
 author: Kathryn Gleason
 contributor: Yaniv Korman

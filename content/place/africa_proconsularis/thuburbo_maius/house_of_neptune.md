@@ -1,8 +1,8 @@
 ---
-gre_id: "e0e0054f68"
+gre_id: e0e0054f68
 aliases: [/id/e0e0054f68]
 type: garden
-title: "House of Neptune (Maison de Neptune)"
+title: House of Neptune (Maison de Neptune)
 latlon: [ 36.400355, 9.903990 ]
 author: Wilhelmina Jashemski
 contributor: Nicholas Gill

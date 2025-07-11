@@ -1,8 +1,8 @@
 ---
-gre_id: "fb663f9f74"
+gre_id: fb663f9f74
 aliases: [/id/fb663f9f74]
 type: garden
-title: "House of Alcazaba"
+title: House of Alcazaba
 latlon: [ 36.720965, -4.416832 ]
 author:
 contributor: Yiyun Liu

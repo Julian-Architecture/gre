@@ -1,8 +1,8 @@
 ---
-gre_id: "6d5915655f"
+gre_id: 6d5915655f
 aliases: [/id/6d5915655f]
 type: garden
-title: "House of the Warehouse (Maison de l'entrepôt)"
+title: House of the Warehouse (Maison de l'entrepôt)
 latlon: [ 35.485216, 6.468222 ]
 author: Amina-Aïcha Malek
 contributor: Xue Xia

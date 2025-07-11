@@ -1,8 +1,8 @@
 ---
-gre_id: "d91343fd24"
+gre_id: d91343fd24
 aliases: [/id/d91343fd24]
 type: garden
-title: "Great Palestra (Insula or. II.4)"
+title: Great Palestra (Insula or. II.4)
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

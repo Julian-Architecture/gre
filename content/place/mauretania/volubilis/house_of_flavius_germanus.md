@@ -1,8 +1,8 @@
 ---
-gre_id: "fa9dfb2850"
+gre_id: fa9dfb2850
 aliases: [/id/fa9dfb2850]
 type: garden
-title: "House of Flavius Germanus (La maison de Flavius Germanicus)"
+title: House of Flavius Germanus (La maison de Flavius Germanicus)
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Brandon Wilson

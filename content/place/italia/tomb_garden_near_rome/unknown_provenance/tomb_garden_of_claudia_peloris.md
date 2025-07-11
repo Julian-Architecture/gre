@@ -1,8 +1,8 @@
 ---
-gre_id: "eac9f15896"
+gre_id: eac9f15896
 aliases: [/id/eac9f15896]
 type: garden
-title: "Tomb Garden of Claudia Peloris"
+title: Tomb Garden of Claudia Peloris
 latlon: [ 0, 0 ]
 author:
 contributor: Lingyi Xu

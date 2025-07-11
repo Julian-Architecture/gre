@@ -1,8 +1,8 @@
 ---
-gre_id: "3a192fd948"
+gre_id: 3a192fd948
 aliases: [/id/3a192fd948]
 type: garden
-title: "House of the Trussed Animals (Maison des animaux liés)"
+title: House of the Trussed Animals (Maison des animaux liés)
 latlon: [ 36.400355, 9.903990 ]
 author: Wilhelmina Jashemski
 contributor: Nicholas Gill

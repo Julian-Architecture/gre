@@ -1,8 +1,8 @@
 ---
-gre_id: "6802d02b5a"
+gre_id: 6802d02b5a
 aliases: [/id/6802d02b5a]
 type: garden
-title: "Garden between the nymphaeum on the E side of the Academy and the Praetorium (Fig. 1, n. 24)"
+title: Garden between the nymphaeum on the E side of the Academy and the Praetorium (Fig. 1, n. 24)
 latlon: [ 41.940614, 12.777282 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Joshua Rosenheim

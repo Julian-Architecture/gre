@@ -1,8 +1,8 @@
 ---
-gre_id: "040883db1f"
+gre_id: 040883db1f
 aliases: [/id/040883db1f]
 type: garden
-title: "Rural Villa in Dietikon"
+title: Rural Villa in Dietikon
 latlon: [ 49.214670, 8.015747 ]
 author: Christa Ebnöther, Maureen Carroll
 contributor: June Dorsch

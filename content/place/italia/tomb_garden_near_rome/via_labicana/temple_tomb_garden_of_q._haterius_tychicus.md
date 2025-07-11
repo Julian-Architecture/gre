@@ -1,8 +1,8 @@
 ---
-gre_id: "06bb2c57ba"
+gre_id: 06bb2c57ba
 aliases: [/id/06bb2c57ba]
 type: garden
-title: "Temple Tomb Garden of Q. Haterius Tychicus"
+title: Temple Tomb Garden of Q. Haterius Tychicus
 latlon: [ 0, 0 ]
 author: John Bodel
 contributor: Yuyao Liu

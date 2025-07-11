@@ -1,8 +1,8 @@
 ---
-gre_id: "2b7ce2f065"
+gre_id: 2b7ce2f065
 aliases: [/id/2b7ce2f065]
 type: garden
-title: "Villa de Milreu"
+title: Villa de Milreu
 latlon: [ 0, 0 ]
 author:
 contributor: Xingjian Wang

@@ -1,8 +1,8 @@
 ---
-gre_id: "b50312a60b"
+gre_id: b50312a60b
 aliases: [/id/b50312a60b]
 type: garden
-title: "Vigna Barberini"
+title: Vigna Barberini
 latlon: [ 41.889306, 12.487109 ]
 author: Françoise Villedieu
 contributor: Rhiannon Paré

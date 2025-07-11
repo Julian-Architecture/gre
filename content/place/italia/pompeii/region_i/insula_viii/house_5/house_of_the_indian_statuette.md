@@ -1,8 +1,8 @@
 ---
-gre_id: "a5f06c13f0"
+gre_id: a5f06c13f0
 aliases: [/id/a5f06c13f0]
 type: garden
-title: "House of the Indian Statuette (I.viii.5)"
+title: House of the Indian Statuette (I.viii.5)
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: June Dorsch

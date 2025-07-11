@@ -1,8 +1,8 @@
 ---
-gre_id: "49e4c2d1b1"
+gre_id: 49e4c2d1b1
 aliases: [/id/49e4c2d1b1]
 type: garden
-title: "II.6 The Great Palaestra"
+title: II.6 The Great Palaestra
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

@@ -1,8 +1,8 @@
 ---
-gre_id: "21b8a4b56c"
+gre_id: 21b8a4b56c
 aliases: [/id/21b8a4b56c]
 type: garden
-title: "Villa de Torre de Palma"
+title: Villa de Torre de Palma
 latlon: [ 39.062264, -7.488473 ]
 author:
 contributor: Xingjian Wang

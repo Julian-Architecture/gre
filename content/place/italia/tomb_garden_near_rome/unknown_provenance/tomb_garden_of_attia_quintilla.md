@@ -1,8 +1,8 @@
 ---
-gre_id: "1ab6aec8d5"
+gre_id: 1ab6aec8d5
 aliases: [/id/1ab6aec8d5]
 type: garden
-title: "Tomb Garden of Attia Quintilla"
+title: Tomb Garden of Attia Quintilla
 latlon: [ 0, 0 ]
 author:
 contributor: Lingyi Xu

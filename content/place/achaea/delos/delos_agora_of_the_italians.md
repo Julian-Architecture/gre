@@ -1,8 +1,8 @@
 ---
-gre_id: "2abc941b5c"
+gre_id: 2abc941b5c
 aliases: [/id/2abc941b5c]
 type: garden
-title: "Agora of the Italians"
+title: Agora of the Italians
 latlon: [ 37.401783, 25.267610 ]
 author: Monika Trümper
 contributor: Jane Millar

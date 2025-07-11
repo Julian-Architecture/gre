@@ -1,8 +1,8 @@
 ---
-gre_id: "5a33a1fddf"
+gre_id: 5a33a1fddf
 aliases: [/id/5a33a1fddf]
 type: garden
-title: "Casa dei Cervi"
+title: Casa dei Cervi
 date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski

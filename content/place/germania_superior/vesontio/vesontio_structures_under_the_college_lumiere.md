@@ -1,8 +1,8 @@
 ---
-gre_id: "603e2168c2"
+gre_id: 603e2168c2
 aliases: [/id/603e2168c2]
 type: garden
-title: "Structures under the Collège Lumière in Vesontio"
+title: Structures under the Collège Lumière in Vesontio
 latlon: [ 47.23369, 6.03039 ]
 author: Claudine Munier, Christophe Gaston, Maureen Carroll
 contributor: June Dorsch

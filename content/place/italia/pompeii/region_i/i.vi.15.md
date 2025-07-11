@@ -1,8 +1,8 @@
 ---
-gre_id: "d787a34656"
+gre_id: d787a34656
 aliases: [/id/d787a34656]
 type: garden
-title: "I.6.15 House of L. Ceius Secundus; House of the Ceii; of Queen Elena; of Fabia and Tyrannus"
+title: I.6.15 House of L. Ceius Secundus; House of the Ceii; of Queen Elena; of Fabia and Tyrannus
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

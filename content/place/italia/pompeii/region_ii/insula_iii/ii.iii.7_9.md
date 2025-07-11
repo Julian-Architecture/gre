@@ -1,8 +1,8 @@
 ---
-gre_id: "efece6e140"
+gre_id: efece6e140
 aliases: [/id/efece6e140]
 type: garden
-title: "II.3.7/9"
+title: II.3.7/9
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

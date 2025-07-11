@@ -1,8 +1,8 @@
 ---
-gre_id: "611879dfad"
+gre_id: 611879dfad
 aliases: [/id/611879dfad]
 type: garden
-title: "The Pecile (Fig. 1, n. 6)"
+title: The Pecile (Fig. 1, n. 6)
 latlon: [ 41.941871, 12.774084 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Joshua Rosenheim

@@ -1,6 +1,6 @@
 ---
 type: people
-title: Győző Vörös 
+title: Győző Vörös
 date: 2025-06-18
 draft: true
 ---

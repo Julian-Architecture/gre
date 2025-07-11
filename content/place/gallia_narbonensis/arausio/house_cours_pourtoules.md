@@ -1,8 +1,8 @@
 ---
-gre_id: "76e7e4fbc7"
+gre_id: 76e7e4fbc7
 aliases: [/id/76e7e4fbc7]
 type: garden
-title: "House Cours Pouroules"
+title: House Cours Pouroules
 latlon: [ 42.439512, 3.176623 ]
 author: Eric Morvillez, Emilie Chassillan
 contributor: Yichen Liu

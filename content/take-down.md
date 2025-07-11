@@ -1,5 +1,5 @@
 ---
-title: "Take-Down Policy"
+title: Take-Down Policy
 contributor: David Ratzan
 date: 2021-04-20
 modified: 2021-04-20

@@ -1,8 +1,8 @@
 ---
-gre_id: "5cb15906f2"
+gre_id: 5cb15906f2
 aliases: [/id/5cb15906f2]
 type: garden
-title: "Casa del Mosaico di Nettuno e di Anfitrite"
+title: Casa del Mosaico di Nettuno e di Anfitrite
 date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski

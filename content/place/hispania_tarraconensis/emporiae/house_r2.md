@@ -1,8 +1,8 @@
 ---
-gre_id: "3290f5df6b"
+gre_id: 3290f5df6b
 aliases: [/id/3290f5df6b]
 type: garden
-title: "House R2  (Tang AmpR2 and AmpR3)"
+title: House R2  (Tang AmpR2 and AmpR3)
 latlon: [ 47.260687, 9.617966 ]
 author:
 contributor: Qianli Jiang

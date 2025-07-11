@@ -1,8 +1,8 @@
 ---
-gre_id: "88f1bb6a78"
+gre_id: 88f1bb6a78
 aliases: [/id/88f1bb6a78]
 type: garden
-title: "Domus Aurea"
+title: Domus Aurea
 latlon: [ 41.891244, 12.495403 ]
 author: Elizabeth Macaulay, Linda Anderson
 contributor: Joshua Rosenheim, Rhiannon Paré

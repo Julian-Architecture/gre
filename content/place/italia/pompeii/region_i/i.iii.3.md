@@ -1,8 +1,8 @@
 ---
-gre_id: "a1409f27ca"
+gre_id: a1409f27ca
 aliases: [/id/a1409f27ca]
 type: garden
-title: "I.3.3 House of Epidius Fortunatus"
+title: I.3.3 House of Epidius Fortunatus
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

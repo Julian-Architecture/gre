@@ -1,8 +1,8 @@
 ---
-gre_id: "c60396b2aa"
+gre_id: c60396b2aa
 aliases: [/id/c60396b2aa]
 type: garden
-title: "House of Nicentus (Maison de Nicentus)"
+title: House of Nicentus (Maison de Nicentus)
 latlon: [ 36.40112, 9.904448 ]
 author: Wilhelmina Jashemski
 contributor: Nicholas Gill

@@ -1,8 +1,8 @@
 ---
-gre_id: "4dd2bd40e6"
+gre_id: 4dd2bd40e6
 aliases: [/id/4dd2bd40e6]
 type: garden
-title: "House C, Les Villégiales, quarter of the Benedictines"
+title: House C, Les Villégiales, quarter of the Benedictines
 latlon: [ 42.439512, 3.176623 ]
 author: Eric Morvillez, Emilie Chassillan
 contributor: Yichen Liu

@@ -1,8 +1,8 @@
 ---
-gre_id: "3643484a1f"
+gre_id: 3643484a1f
 aliases: [/id/3643484a1f]
 type: garden
-title: "House of the Mithraeum"
+title: House of the Mithraeum
 latlon: [ 38.917216, -6.341213 ]
 author:
 contributor: Yiyun Liu

@@ -1,8 +1,8 @@
 ---
-gre_id: "2b6f517e74"
+gre_id: 2b6f517e74
 aliases: [/id/2b6f517e74]
 type: garden
-title: "The Gardens of Sperlonga. The peristyle garden "
+title: The Gardens of Sperlonga. The peristyle garden
 latlon: [ 41.251480, 13.449332 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Yuyao Liu

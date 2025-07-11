@@ -1,8 +1,8 @@
 ---
-gre_id: "864b23466d"
+gre_id: 864b23466d
 aliases: [/id/864b23466d]
 type: garden
-title: "Divorum"
+title: Divorum
 latlon: [ 41.894698, 12.478022 ]
 author: Valerie Aymer, Kathryn Gleason
 contributor: Joshua Rosenheim, Rhiannon Paré

@@ -1,8 +1,8 @@
 ---
-gre_id: "5b1b3c0848"
+gre_id: 5b1b3c0848
 aliases: [/id/5b1b3c0848]
 type: garden
-title: "Neronian Palace"
+title: Neronian Palace
 latlon: [ 41.900013, 12.461381 ]
 author: Maria Anntonietta Tomei
 contributor: Rhiannon Paré

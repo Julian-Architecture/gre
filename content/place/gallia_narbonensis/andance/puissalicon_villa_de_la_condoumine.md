@@ -1,8 +1,8 @@
 ---
-gre_id: "9e4fc7e761"
+gre_id: 9e4fc7e761
 aliases: [/id/9e4fc7e761]
 type: garden
-title: "Puissalicon, villa de la Condoumine"
+title: Puissalicon, villa de la Condoumine
 latlon: [ 42.439512, 3.176623 ]
 author: Eric Morvillez, Emilie Chassillan
 contributor: Yichen Liu

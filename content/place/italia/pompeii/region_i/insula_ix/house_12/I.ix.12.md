@@ -1,8 +1,8 @@
 ---
-gre_id: "ed51f138e3"
+gre_id: ed51f138e3
 aliases: [/id/ed51f138e3]
 type: garden
-title: "I.ix.12"
+title: I.ix.12
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: June Dorsch

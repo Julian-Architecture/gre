@@ -1,8 +1,8 @@
 ---
-gre_id: "fc5b8ea073"
+gre_id: fc5b8ea073
 aliases: [/id/fc5b8ea073]
 type: garden
-title: "Rural Villa in Chedworth"
+title: Rural Villa in Chedworth
 latlon: [ 51.819999, -1.924458 ]
 author: Maureen Carroll
 contributor: June Dorsch

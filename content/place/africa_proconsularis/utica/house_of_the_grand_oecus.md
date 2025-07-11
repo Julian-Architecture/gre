@@ -1,8 +1,8 @@
 ---
-gre_id: "e738423524"
+gre_id: e738423524
 aliases: [/id/e738423524]
 type: garden
-title: "House of the Grand Oecus (Maison du grand oecus)"
+title: House of the Grand Oecus (Maison du grand oecus)
 latlon: [ 37.055611, 10.061305 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Jinyi Yang

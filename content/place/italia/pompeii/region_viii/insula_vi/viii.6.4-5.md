@@ -1,8 +1,8 @@
 ---
-gre_id: "e94db794a9"
+gre_id: e94db794a9
 aliases: [/id/e94db794a9]
 type: garden
-title: "VIII.6.4-5. Market Garden"
+title: VIII.6.4-5. Market Garden
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

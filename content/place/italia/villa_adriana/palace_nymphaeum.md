@@ -1,8 +1,8 @@
 ---
-gre_id: "0760fafa27"
+gre_id: 0760fafa27
 aliases: [/id/0760fafa27]
 type: garden
-title: "Palace nymphaeum (Fig. 1, n. 16)"
+title: Palace nymphaeum (Fig. 1, n. 16)
 latlon: [ 41.940994, 12.778615 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Joshua Rosenheim

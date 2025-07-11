@@ -1,8 +1,8 @@
 ---
-gre_id: "8661630841"
+gre_id: 8661630841
 aliases: [/id/8661630841]
 type: garden
-title: "Casa D'Argo"
+title: Casa D'Argo
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 contributor: Tiffany Y. Fong

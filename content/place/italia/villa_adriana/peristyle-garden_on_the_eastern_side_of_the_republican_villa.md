@@ -1,8 +1,8 @@
 ---
-gre_id: "332056f274"
+gre_id: 332056f274
 aliases: [/id/332056f274]
 type: garden
-title: "Peristyle-garden on the eastern side of the Republican villa (Fig. 1, n. 18)"
+title: Peristyle-garden on the eastern side of the Republican villa (Fig. 1, n. 18)
 latlon: [ 41.942693, 12.778156 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Joshua Rosenheim

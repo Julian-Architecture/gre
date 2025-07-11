@@ -1,8 +1,8 @@
 ---
-gre_id: "420d0f0968"
+gre_id: 420d0f0968
 aliases: [/id/420d0f0968]
 type: place
-title: "Germania Superior"
+title: Germania Superior
 latlon: [ 49.214670, 8.015747 ]
 author: Maureen Carroll
 contributor: June Dorsch

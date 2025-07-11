@@ -1,8 +1,8 @@
 ---
-gre_id: "9d96d268b2"
+gre_id: 9d96d268b2
 aliases: [/id/9d96d268b2]
 type: garden
-title: "Insula or. I.1"
+title: Insula or. I.1
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

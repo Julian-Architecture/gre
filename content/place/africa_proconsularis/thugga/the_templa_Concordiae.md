@@ -1,8 +1,8 @@
 ---
-gre_id: "f3e5a4f149"
+gre_id: f3e5a4f149
 aliases: [/id/f3e5a4f149]
 type: garden
-title: "Sanctuary B, the templa Concordiae"
+title: Sanctuary B, the templa Concordiae
 latlon: [ 36.422473, 9.218866 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Xue Xia

@@ -1,8 +1,8 @@
 ---
-gre_id: "2098eccb4d"
+gre_id: 2098eccb4d
 aliases: [/id/2098eccb4d]
 type: garden
-title: "Insula II, lot 4"
+title: Insula II, lot 4
 latlon: [ 37.055611, 10.061305 ]
 author: Wilhelmina Jashemski
 contributor: Jinyi Yang

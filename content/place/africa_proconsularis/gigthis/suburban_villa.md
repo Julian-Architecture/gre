@@ -1,8 +1,8 @@
 ---
-gre_id: "cf4ea335a0"
+gre_id: cf4ea335a0
 aliases: [/id/cf4ea335a0]
 type: garden
-title: "Suburban Villa"
+title: Suburban Villa
 latlon: [ 33.532711, 10.674151 ]
 author: Maureen Carroll, Amina-Aïcha Malek
 contributor: Yuming Huang

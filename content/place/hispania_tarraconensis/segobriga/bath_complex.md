@@ -1,8 +1,8 @@
 ---
-gre_id: "cf8fbeedc0"
+gre_id: cf8fbeedc0
 aliases: [/id/cf8fbeedc0]
 type: garden
-title: "Bath Complex"
+title: Bath Complex
 latlon: [ 39.885321, -2.81302 ]
 author:
 contributor: Yiyun Liu

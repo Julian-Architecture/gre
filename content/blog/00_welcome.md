@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Blog"
+title: Welcome to the Blog
 date: 2021-04-13
 article_id: blog_0000
 author: Christian Casey

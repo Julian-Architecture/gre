@@ -1,8 +1,8 @@
 ---
-gre_id: "0481cfbfef"
+gre_id: 0481cfbfef
 aliases: [/id/0481cfbfef]
 type: garden
-title: "House, rue Nationale"
+title: House, rue Nationale
 latlon: [ 42.439512, 3.176623 ]
 author: Eric Morvillez, Emilie Chassillan
 contributor: Yichen Liu

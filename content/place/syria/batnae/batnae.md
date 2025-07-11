@@ -1,8 +1,8 @@
 ---
-gre_id: "45c08cc1e1"
+gre_id: 45c08cc1e1
 aliases: [/id/45c08cc1e1]
 type: garden
-title: "Imperial Residence at Batnae"
+title: Imperial Residence at Batnae
 latlon: [ 36.976075, 38.424238 ]
 author: Catherine Kearns, Maureen Carroll
 contributor: Jane Millar

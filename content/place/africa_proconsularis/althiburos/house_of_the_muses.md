@@ -1,8 +1,8 @@
 ---
-gre_id: "69616db9b5"
+gre_id: 69616db9b5
 aliases: [/id/69616db9b5]
 type: garden
-title: "House of the Muses"
+title: House of the Muses
 latlon: [ 35.875199, 8.786351 ]
 author: Amina-Aïcha Malek
 contributor: Yuming Huang

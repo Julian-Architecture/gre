@@ -1,8 +1,8 @@
 ---
-gre_id: "99f50f2ebc"
+gre_id: 99f50f2ebc
 aliases: [/id/99f50f2ebc]
 type: garden
-title: "I.4.2"
+title: I.4.2
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

@@ -1,8 +1,8 @@
 ---
-gre_id: "dcdd788248"
+gre_id: dcdd788248
 aliases: [/id/dcdd788248]
 type: garden
-title: "Large Building North of Forum in Arae Flaviae"
+title: Large Building North of Forum in Arae Flaviae
 latlon: [ 48.166687, 8.627925 ]
 author: Maureen Carroll
 contributor: June Dorsch

@@ -1,5 +1,5 @@
 ---
-title: "Linked Open Data"
+title: Linked Open Data
 aliases: [/open-linked-data]
 contributor: David Ratzan
 date: 2021-04-20

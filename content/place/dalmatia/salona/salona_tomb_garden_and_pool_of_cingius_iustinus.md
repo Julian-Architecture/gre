@@ -1,8 +1,8 @@
 ---
-gre_id: "b85436cd7e"
+gre_id: b85436cd7e
 aliases: [/id/b85436cd7e]
 type: garden
-title: "Tomb Garden and Pool of Cingius Iustinus"
+title: Tomb Garden and Pool of Cingius Iustinus
 latlon: [ 43.539561, 16.483426 ]
 author: John Bodel
 contributor: Christian Casey

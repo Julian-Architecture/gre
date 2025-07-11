@@ -1,8 +1,8 @@
 ---
-gre_id: "cd4ec5400c"
+gre_id: cd4ec5400c
 aliases: [/id/cd4ec5400c]
 type: garden
-title: "Casa del Bicentenario"
+title: Casa del Bicentenario
 date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski

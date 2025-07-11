@@ -1,8 +1,8 @@
 ---
-gre_id: "4d91f6dff9"
+gre_id: 4d91f6dff9
 aliases: [/id/4d91f6dff9]
 type: garden
-title: "House of Fourni"
+title: House of Fourni
 latlon: [ 37.392022, 25.270238 ]
 author: Monika Trümper
 contributor: Jane Millar

@@ -1,8 +1,8 @@
 ---
-gre_id: "aa32fd6c71"
+gre_id: aa32fd6c71
 aliases: [/id/aa32fd6c71]
 type: garden
-title: "House B, Les Villégiales, quarter of the Benedictines"
+title: House B, Les Villégiales, quarter of the Benedictines
 latlon: [ 42.439512, 3.176623 ]
 author: Eric Morvillez, Emilie Chassillan
 contributor: Yichen Liu

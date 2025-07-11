@@ -1,5 +1,5 @@
 ---
-title: "(Hu)go Template Primer"
+title: (Hu)go Template Primer
 date: 2014-04-02
 thumbnail: "img/placeholder.png"
 tags:
@@ -270,7 +270,7 @@ Here is the example front matter:
 
 ```
 ---
-title: "Permalinks"
+title: Permalinks
 date: "2013-11-18"
 aliases:
   - "/doc/permalinks/"

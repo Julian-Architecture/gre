@@ -1,8 +1,8 @@
 ---
-gre_id: "f3b21bbf86"
+gre_id: f3b21bbf86
 aliases: [/id/f3b21bbf86]
 type: garden
-title: "Petra Garden and Pool Complex"
+title: Petra Garden and Pool Complex
 latlon: [ 30.328615, 35.443000 ]
 author: Leigh-Ann Bedal
 contributor: Jane Millar, Leigh-Ann Bedal

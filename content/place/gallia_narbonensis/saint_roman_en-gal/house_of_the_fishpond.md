@@ -1,8 +1,8 @@
 ---
-gre_id: "554c97f02d"
+gre_id: 554c97f02d
 aliases: [/id/554c97f02d]
 type: garden
-title: "House of the Fishpond"
+title: House of the Fishpond
 latlon: [ 42.439512, 3.176623 ]
 author: Eric Morvillez, Emilie Chassillan
 contributor: Yichen Liu

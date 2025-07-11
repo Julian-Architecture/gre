@@ -1,8 +1,8 @@
 ---
-gre_id: "f1728557d2"
+gre_id: f1728557d2
 aliases: [/id/f1728557d2]
 type: garden
-title: "House of the Nymphs (Maison des Nymphes)"
+title: House of the Nymphs (Maison des Nymphes)
 latlon: [ 36.440688, 10.719419 ]
 author: Amina-Aïcha Malek
 contributor: Xue Xia

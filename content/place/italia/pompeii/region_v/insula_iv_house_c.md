@@ -1,8 +1,8 @@
 ---
-gre_id: "def859861d"
+gre_id: def859861d
 aliases: [/id/def859861d]
 type: garden
-title: "V.iv.c."
+title: V.iv.c.
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: Jianing Zhou

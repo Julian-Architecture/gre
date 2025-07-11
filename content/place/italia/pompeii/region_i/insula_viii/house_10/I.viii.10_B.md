@@ -1,8 +1,8 @@
 ---
-gre_id: "29a912e203"
+gre_id: 29a912e203
 aliases: [/id/29a912e203]
 type: garden
-title: "I.viii.10 B"
+title: I.viii.10 B
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: June Dorsch

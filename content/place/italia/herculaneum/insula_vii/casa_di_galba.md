@@ -1,8 +1,8 @@
 ---
-gre_id: "49d8a94d53"
+gre_id: 49d8a94d53
 aliases: [/id/49d8a94d53]
 type: garden
-title: "Casa di Galba (VII.2)"
+title: Casa di Galba (VII.2)
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

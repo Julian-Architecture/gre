@@ -1,8 +1,8 @@
 ---
-gre_id: "545e2e06a2"
+gre_id: 545e2e06a2
 aliases: [/id/545e2e06a2]
 type: garden
-title: "Shrine of the Fates"
+title: Shrine of the Fates
 latlon: [ 37.919512, 22.623851 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri

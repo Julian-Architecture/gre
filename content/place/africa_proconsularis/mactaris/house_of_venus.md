@@ -1,8 +1,8 @@
 ---
-gre_id: "9132260c70"
+gre_id: 9132260c70
 aliases: [/id/9132260c70]
 type: garden
-title: "House of Venus (Maison de Venus)"
+title: House of Venus (Maison de Venus)
 latlon: [ 35.853198, 9.206544 ]
 author: Wilhelmina Jashemski
 contributor: Xue Xia

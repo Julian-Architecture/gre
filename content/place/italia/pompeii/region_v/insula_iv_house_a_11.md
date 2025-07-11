@@ -1,8 +1,8 @@
 ---
-gre_id: "cbe7467d9b"
+gre_id: cbe7467d9b
 aliases: [/id/cbe7467d9b]
 type: garden
-title: "V.iv.a/11"
+title: V.iv.a/11
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: Jianing Zhou

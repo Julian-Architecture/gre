@@ -1,8 +1,8 @@
 ---
-gre_id: "b5c9a7a301"
+gre_id: b5c9a7a301
 aliases: [/id/b5c9a7a301]
 type: garden
-title: "Suburban Gardens in Camulodunum"
+title: Suburban Gardens in Camulodunum
 latlon: [ 51.890074, 0.901087 ]
 author: Maureen Carroll
 contributor: June Dorsch

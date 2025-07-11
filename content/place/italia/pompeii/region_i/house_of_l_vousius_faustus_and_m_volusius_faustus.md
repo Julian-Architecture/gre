@@ -1,8 +1,8 @@
 ---
-gre_id: "6645a13b91"
+gre_id: 6645a13b91
 aliases: [/id/6645a13b91]
 type: garden
-title: "House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)"
+title: House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: June Dorsch

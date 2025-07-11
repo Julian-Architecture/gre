@@ -1,8 +1,8 @@
 ---
-gre_id: "33272c1a3c"
+gre_id: 33272c1a3c
 aliases: [/id/33272c1a3c]
 type: garden
-title: "Casa del Larario Fiorito (II.ix.4)"
+title: Casa del Larario Fiorito (II.ix.4)
 date: 2021-04-21
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski

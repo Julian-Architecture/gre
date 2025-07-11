@@ -1,8 +1,8 @@
 ---
-gre_id: "a401c7d278"
+gre_id: a401c7d278
 aliases: [/id/a401c7d278]
 type: garden
-title: "Babatha's Orchard"
+title: Babatha's Orchard
 latlon: [ 31.024905, 35.456543 ]
 author: Leigh-Ann Bedal
 contributor: Leigh-Ann Bedal

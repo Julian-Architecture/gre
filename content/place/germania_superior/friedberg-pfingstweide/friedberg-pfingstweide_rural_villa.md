@@ -1,8 +1,8 @@
 ---
-gre_id: "5de1c69bbd"
+gre_id: 5de1c69bbd
 aliases: [/id/5de1c69bbd]
 type: garden
-title: "Rural Villa in Friedberg Pfingstweide"
+title: Rural Villa in Friedberg Pfingstweide
 latlon: [ 49.214670, 8.015747 ]
 author: Maureen Carroll
 contributor: June Dorsch

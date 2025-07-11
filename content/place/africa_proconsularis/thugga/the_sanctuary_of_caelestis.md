@@ -1,8 +1,8 @@
 ---
-gre_id: "66d993c8d4"
+gre_id: 66d993c8d4
 aliases: [/id/66d993c8d4]
 type: garden
-title: "The sanctuary of Caelestis"
+title: The sanctuary of Caelestis
 latlon: [ 36.422473, 9.218866 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Xue Xia

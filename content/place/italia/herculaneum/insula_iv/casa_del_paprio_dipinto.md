@@ -1,8 +1,8 @@
 ---
-gre_id: "39e0336d94"
+gre_id: 39e0336d94
 aliases: [/id/39e0336d94]
 type: garden
-title: "Casa del Paprio Dipinto"
+title: Casa del Paprio Dipinto
 date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski

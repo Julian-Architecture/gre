@@ -1,8 +1,8 @@
 ---
-gre_id: "f95133e363"
+gre_id: f95133e363
 aliases: [/id/f95133e363]
 type: garden
-title: "Urban Houses Near the Areopagus"
+title: Urban Houses Near the Areopagus
 latlon: [ 37.972372, 23.723371 ]
 author: Maureen Carroll
 contributor: Amartya Shri, Jane Millar
@@ -18,7 +18,7 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 ## Location
 
-- [Athens]({{<relref ".">}}) 
+- [Athens]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="579885" name="Athens" >}}
 
 ## Sublocation

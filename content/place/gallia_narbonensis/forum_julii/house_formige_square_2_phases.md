@@ -1,8 +1,8 @@
 ---
-gre_id: "50dac00f2c"
+gre_id: 50dac00f2c
 aliases: [/id/50dac00f2c]
 type: garden
-title: "House Formigé Square - 2 phases"
+title: House Formigé Square - 2 phases
 latlon: [ 42.439512, 3.176623 ]
 author: Eric Morvillez, Emilie Chassillan
 contributor: Yichen Liu

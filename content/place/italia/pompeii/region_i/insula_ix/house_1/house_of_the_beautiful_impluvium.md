@@ -1,8 +1,8 @@
 ---
-gre_id: "4a727ddc3e"
+gre_id: 4a727ddc3e
 aliases: [/id/4a727ddc3e]
 type: garden
-title: "House of the Beautiful Impluvium; Casa del Bell Impluvio (I.ix.1)"
+title: House of the Beautiful Impluvium; Casa del Bell Impluvio (I.ix.1)
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: June Dorsch

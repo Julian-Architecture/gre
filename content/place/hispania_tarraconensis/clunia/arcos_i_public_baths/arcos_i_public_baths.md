@@ -1,8 +1,8 @@
 ---
-gre_id: "71ab14ebd1"
+gre_id: 71ab14ebd1
 aliases: [/id/71ab14ebd1]
 type: garden
-title: "Arcos I Public Baths"
+title: Arcos I Public Baths
 latlon: [ 47.260687, 9.617966 ]
 author: Clopper Almon
 contributor: Qianli Jiang

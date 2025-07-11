@@ -1,8 +1,8 @@
 ---
-gre_id: "53500e1feb"
+gre_id: 53500e1feb
 aliases: [/id/53500e1feb]
 type: garden
-title: "I.7.10-12/19 House of the Ephebe; Casa Dell'Efebo; House of P. Cornelius Teges (or Tages)"
+title: I.7.10-12/19 House of the Ephebe; Casa Dell'Efebo; House of P. Cornelius Teges (or Tages)
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

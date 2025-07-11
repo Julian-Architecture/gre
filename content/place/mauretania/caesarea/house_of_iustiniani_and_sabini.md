@@ -1,8 +1,8 @@
 ---
-gre_id: "2089405bc1"
+gre_id: 2089405bc1
 aliases: [/id/2089405bc1]
 type: garden
-title: "House of Iustiniani and Sabini (Maison de Kaid Youcef)"
+title: House of Iustiniani and Sabini (Maison de Kaid Youcef)
 latlon: [ 0, 0 ]
 author: Amina-Aïcha Malek
 contributor: Brandon Wilson

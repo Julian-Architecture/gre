@@ -1,8 +1,8 @@
 ---
-gre_id: "9c24534c32"
+gre_id: 9c24534c32
 aliases: [/id/9c24534c32]
 type: garden
-title: "Rural Estate in Gatcombe"
+title: Rural Estate in Gatcombe
 latlon: [ 51.437167, -2.67623 ]
 author: Maureen Carroll
 contributor: June Dorsch

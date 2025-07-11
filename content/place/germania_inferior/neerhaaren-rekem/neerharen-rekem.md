@@ -1,8 +1,8 @@
 ---
-gre_id: "feb6a7feaa"
+gre_id: feb6a7feaa
 aliases: [/id/feb6a7feaa]
 type: garden
-title: "Rural Villa at Neerhaaren-Rekem"
+title: Rural Villa at Neerhaaren-Rekem
 latlon: [ 50.907583, 5.686724 ]
 author: Maureen Carroll
 contributor: David Ratzan

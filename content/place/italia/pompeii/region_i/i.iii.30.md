@@ -1,8 +1,8 @@
 ---
-gre_id: "ca91effc7c"
+gre_id: ca91effc7c
 aliases: [/id/ca91effc7c]
 type: garden
-title: "I.3.30"
+title: I.3.30
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

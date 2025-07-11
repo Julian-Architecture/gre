@@ -1,8 +1,8 @@
 ---
-gre_id: "dfee38324f"
+gre_id: dfee38324f
 aliases: [/id/dfee38324f]
 type: garden
-title: "Niederzier Hambach 69"
+title: Niederzier Hambach 69
 latlon: [ 50.897592, 6.445 ]
 author: Maureen Carroll
 contributor: David Ratzan

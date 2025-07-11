@@ -1,8 +1,8 @@
 ---
-gre_id: "1f1d6e587e"
+gre_id: 1f1d6e587e
 aliases: [/id/1f1d6e587e]
 type: garden
-title: "House in Insula 30 in Augusta Raurica"
+title: House in Insula 30 in Augusta Raurica
 latlon: [ 47.533241, 7.722118 ]
 author: Maureen Carroll
 contributor: June Dorsch

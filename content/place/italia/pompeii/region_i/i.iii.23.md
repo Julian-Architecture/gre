@@ -1,8 +1,8 @@
 ---
-gre_id: "fc21246bea"
+gre_id: fc21246bea
 aliases: [/id/fc21246bea]
 type: garden
-title: "I.3.23 House of Actius Anicetus"
+title: I.3.23 House of Actius Anicetus
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

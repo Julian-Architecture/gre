@@ -1,8 +1,8 @@
 ---
-gre_id: "4f203f7918"
+gre_id: 4f203f7918
 aliases: [/id/4f203f7918]
 type: garden
-title: "I.7.2-3 House of M. Fabius Amandio; House of P. Cornelius Cornthus"
+title: I.7.2-3 House of M. Fabius Amandio; House of P. Cornelius Cornthus
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

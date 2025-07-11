@@ -1,8 +1,8 @@
 ---
-gre_id: "fe162e4efd"
+gre_id: fe162e4efd
 aliases: [/id/fe162e4efd]
 type: garden
-title: "House of Successus (I.ix.3)"
+title: House of Successus (I.ix.3)
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: June Dorsch

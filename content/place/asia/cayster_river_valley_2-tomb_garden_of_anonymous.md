@@ -1,8 +1,8 @@
 ---
-gre_id: "c69dd85a16"
+gre_id: c69dd85a16
 aliases: [/id/c69dd85a16]
 type: garden
-title: "Tomb Garden of Anonymous 2"
+title: Tomb Garden of Anonymous 2
 latlon: [ 38.085927, 27.744117 ]
 author: John Bodel
 contributor: Shamika Ghate

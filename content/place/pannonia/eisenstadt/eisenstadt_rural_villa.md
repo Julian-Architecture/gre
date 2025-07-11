@@ -1,8 +1,8 @@
 ---
-gre_id: "33cc03c782"
+gre_id: 33cc03c782
 aliases: [/id/33cc03c782]
 type: garden
-title: "Rural Villa in Eisenstadt"
+title: Rural Villa in Eisenstadt
 latlon: [ 46.5, 15.5 ]
 author: Maureen Carroll
 contributor: June Dorsch

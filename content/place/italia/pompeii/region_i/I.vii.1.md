@@ -1,8 +1,8 @@
 ---
-gre_id: "a831d7fef4"
+gre_id: a831d7fef4
 aliases: [/id/a831d7fef4]
 type: garden
-title: "I.7.1 House of P. Paquius Proculus; House of C. Cuspius Pansa"
+title: I.7.1 House of P. Paquius Proculus; House of C. Cuspius Pansa
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

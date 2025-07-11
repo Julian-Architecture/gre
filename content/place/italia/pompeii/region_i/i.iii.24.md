@@ -1,8 +1,8 @@
 ---
-gre_id: "017460df86"
+gre_id: 017460df86
 aliases: [/id/017460df86]
 type: garden
-title: "I.3.24 House of Capella"
+title: I.3.24 House of Capella
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

@@ -1,8 +1,8 @@
 ---
-gre_id: "101706da04"
+gre_id: 101706da04
 aliases: [/id/101706da04]
 type: garden
-title: "House of the Lucius Verus"
+title: House of the Lucius Verus
 latlon: [ 35.297762, 10.699599 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Jinyi Yang

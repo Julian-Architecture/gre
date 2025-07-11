@@ -1,8 +1,8 @@
 ---
-gre_id: "99addb7aff"
+gre_id: 99addb7aff
 aliases: [/id/99addb7aff]
 type: garden
-title: "Tomb Garden of Claudia Semne"
+title: Tomb Garden of Claudia Semne
 latlon: [ 0, 0 ]
 author: John Bodel
 contributor: Yuyao Liu

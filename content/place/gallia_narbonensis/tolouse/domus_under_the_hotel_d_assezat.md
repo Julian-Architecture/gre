@@ -1,8 +1,8 @@
 ---
-gre_id: "0d54548d75"
+gre_id: 0d54548d75
 aliases: [/id/0d54548d75]
 type: garden
-title: "Domus under the Hôtel d'Assézat"
+title: Domus under the Hôtel d'Assézat
 latlon: [ 43.600353, 1.441875 ]
 author: Eric Morvillez, Emilie Chassillan
 contributor: Yichen Liu

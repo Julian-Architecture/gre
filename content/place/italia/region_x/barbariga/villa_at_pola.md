@@ -1,8 +1,8 @@
 ---
-gre_id: "db76049640"
+gre_id: db76049640
 aliases: [/id/db76049640]
 type: garden
-title: "Villa at Pola"
+title: Villa at Pola
 latlon: [ 45.500780, 10.605182 ]
 author: Annalisa Marzano
 contributor: Zhenrui Mei

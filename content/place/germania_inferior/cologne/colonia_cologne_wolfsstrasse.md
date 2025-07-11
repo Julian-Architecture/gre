@@ -1,8 +1,8 @@
 ---
-gre_id: "e0217544ed"
+gre_id: e0217544ed
 aliases: [/id/e0217544ed]
 type: garden
-title: "Urban House on Wolfsstrasse"
+title: Urban House on Wolfsstrasse
 latlon: [ 50.940671, 6.959908 ]
 author: Maureen Carroll
 contributor: David Ratzan

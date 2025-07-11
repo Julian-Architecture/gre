@@ -1,8 +1,8 @@
 ---
-gre_id: "ac3df48e02"
+gre_id: ac3df48e02
 aliases: [/id/ac3df48e02]
 type: garden
-title: "Grove at the shrine of Aiakos"
+title: Grove at the shrine of Aiakos
 latlon: [ 37.739227, 23.518981 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri

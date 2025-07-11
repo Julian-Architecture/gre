@@ -1,8 +1,8 @@
 ---
-gre_id: "43d2397bce"
+gre_id: 43d2397bce
 aliases: [/id/43d2397bce]
 type: garden
-title: "Theater (Theâtre)"
+title: Theater (Theâtre)
 latlon: [ 36.422473, 9.218866 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Nicholas Gill

@@ -1,8 +1,8 @@
 ---
-gre_id: "a8ffc665cb"
+gre_id: a8ffc665cb
 aliases: [/id/a8ffc665cb]
 type: garden
-title: "Thermae Agrippae"
+title: Thermae Agrippae
 latlon: [ 41.896879, 12.476831 ]
 author: Elizabeth Macaulay, Beth Ryan
 contributor: Joshua Rosenheim, Rhiannon Paré

@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: About
 contributor: Christian Casey
 date: 2021-04-13
 modified: 2025-07-05

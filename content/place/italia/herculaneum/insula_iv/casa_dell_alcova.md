@@ -1,8 +1,8 @@
 ---
-gre_id: "5c94b917b1"
+gre_id: 5c94b917b1
 aliases: [/id/5c94b917b1]
 type: garden
-title: "Casa dell'Alcova"
+title: Casa dell'Alcova
 date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski

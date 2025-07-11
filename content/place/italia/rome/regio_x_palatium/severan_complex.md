@@ -1,8 +1,8 @@
 ---
-gre_id: "b267892f1e"
+gre_id: b267892f1e
 aliases: [/id/b267892f1e]
 type: garden
-title: "The Severan Complex"
+title: The Severan Complex
 latlon: [ 41.889306, 12.487109 ]
 author: Maria Anntonietta Tomei
 contributor: Rhiannon Paré

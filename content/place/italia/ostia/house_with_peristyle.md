@@ -1,8 +1,8 @@
 ---
-gre_id: "93e760d9c3"
+gre_id: 93e760d9c3
 aliases: [/id/93e760d9c3]
 type: garden
-title: "House with Peristyle"
+title: House with Peristyle
 latlon: [ 41.752743867143124, 12.286672797879733 ]
 author: Thomas Morard
 contributor: Joshua Rosenheim

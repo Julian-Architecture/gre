@@ -1,8 +1,8 @@
 ---
-gre_id: "4d6880017e"
+gre_id: 4d6880017e
 aliases: [/id/4d6880017e]
 type: garden
-title: "Tomb Garden of M. Aurelius Syntomus and Aurelia Marciane"
+title: Tomb Garden of M. Aurelius Syntomus and Aurelia Marciane
 latlon: [ 51.667934, 6.448177 ]
 author: Francesca Carboni
 contributor: Lingyi Xu

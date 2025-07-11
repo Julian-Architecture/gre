@@ -1,8 +1,8 @@
 ---
-gre_id: "6983390b35"
+gre_id: 6983390b35
 aliases: [/id/6983390b35]
 type: garden
-title: "Villa at Luna"
+title: Villa at Luna
 latlon: [ 44.1159, 9.8214 ]
 author: Annalisa Marzano
 contributor: Zhenrui Mei

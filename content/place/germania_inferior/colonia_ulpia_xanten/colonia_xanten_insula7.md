@@ -1,8 +1,8 @@
 ---
-gre_id: "bce2704a1e"
+gre_id: bce2704a1e
 aliases: [/id/bce2704a1e]
 type: garden
-title: "The Houses of Insula 7 in Colonia Ulpia Traiana"
+title: The Houses of Insula 7 in Colonia Ulpia Traiana
 latlon: [ 51.667934, 6.448177 ]
 author: Maureen Carroll
 contributor: David Ratzan

@@ -1,8 +1,8 @@
 ---
-gre_id: "797193c553"
+gre_id: 797193c553
 aliases: [/id/797193c553]
 type: place
-title: "Pannonia"
+title: Pannonia
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2021-04-21

@@ -1,8 +1,8 @@
 ---
-gre_id: "f3db68a29f"
+gre_id: f3db68a29f
 aliases: [/id/f3db68a29f]
 type: garden
-title: "House of the Seasons (La maison des Saisons)"
+title: House of the Seasons (La maison des Saisons)
 latlon: [ 35.240165, 9.119793 ]
 author: Amina-Aïcha Malek
 contributor: Xue Xia

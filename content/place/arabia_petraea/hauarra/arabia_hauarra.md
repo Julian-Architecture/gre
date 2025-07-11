@@ -1,8 +1,8 @@
 ---
-gre_id: "35fc323d18"
+gre_id: 35fc323d18
 aliases: [/id/35fc323d18]
 type: garden
-title: "Shrine Complex in Insula E125"
+title: Shrine Complex in Insula E125
 latlon: [ 29.956958, 35.328326 ]
 author: M. Barbara Reeves
 contributor: Jane Millar, Leigh-Ann Bedal

@@ -1,8 +1,8 @@
 ---
-gre_id: "df438870c2"
+gre_id: df438870c2
 aliases: [/id/df438870c2]
 type: garden
-title: "The sanctuary of Minerva 2"
+title: The sanctuary of Minerva 2
 latlon: [ 36.422473, 9.218866 ]
 author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Xue Xia

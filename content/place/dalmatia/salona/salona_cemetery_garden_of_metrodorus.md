@@ -1,8 +1,8 @@
 ---
-gre_id: "9a6787448d"
+gre_id: 9a6787448d
 aliases: [/id/9a6787448d]
 type: garden
-title: "Cemetery Garden of Metrodorus"
+title: Cemetery Garden of Metrodorus
 latlon: [ 43.539561, 16.483426 ]
 author: John Bodel
 contributor: Christian Casey

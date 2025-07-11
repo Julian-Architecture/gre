@@ -1,8 +1,8 @@
 ---
-gre_id: "3362b96966"
+gre_id: 3362b96966
 aliases: [/id/3362b96966]
 type: garden
-title: "Machaerus Southern Courtyard"
+title: Machaerus Southern Courtyard
 latlon: [ 31.870046, 35.443876 ]
 author: Győző Vörös
 contributor: Yaniv Korman

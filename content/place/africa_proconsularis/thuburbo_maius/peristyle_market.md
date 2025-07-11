@@ -1,8 +1,8 @@
 ---
-gre_id: "88a590cc40"
+gre_id: 88a590cc40
 aliases: [/id/88a590cc40]
 type: garden
-title: "Peristyle Market (Marché)"
+title: Peristyle Market (Marché)
 latlon: [ 36.40112, 9.904448 ]
 author: Wilhelmina Jashemski
 contributor: Nicholas Gill

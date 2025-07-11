@@ -1,8 +1,8 @@
 ---
-gre_id: "0af81a130f"
+gre_id: 0af81a130f
 aliases: [/id/0af81a130f]
 type: garden
-title: "Herodium Lower Garden Complex"
+title: Herodium Lower Garden Complex
 latlon: [ 31.665784, 35.241750 ]
 author: Ehud Netzer, Kathryn Gleason
 contributor: Yaniv Korman

@@ -1,8 +1,8 @@
 ---
-gre_id: "5c8aada6d5"
+gre_id: 5c8aada6d5
 aliases: [/id/5c8aada6d5]
 type: garden
-title: "VIII.3.14. House of Queen Carolina; House of Adonis"
+title: VIII.3.14. House of Queen Carolina; House of Adonis
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Yifan Li

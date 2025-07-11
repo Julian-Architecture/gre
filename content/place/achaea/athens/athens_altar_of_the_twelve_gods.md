@@ -1,8 +1,8 @@
 ---
-gre_id: "a9bd5b21c5"
+gre_id: a9bd5b21c5
 aliases: [/id/a9bd5b21c5]
 type: garden
-title: "Altar of the Twelve Gods"
+title: Altar of the Twelve Gods
 latlon: [ 37.97572, 23.722662 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri

@@ -1,8 +1,8 @@
 ---
-gre_id: "1ceef17483"
+gre_id: 1ceef17483
 aliases: [/id/1ceef17483]
 type: place
-title: "Italia"
+title: Italia
 latlon: [ 0, 0 ]
 author: Author Name
 contributor: Rhiannon Paré

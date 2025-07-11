@@ -1,8 +1,8 @@
 ---
-gre_id: "b48e71074e"
+gre_id: b48e71074e
 aliases: [/id/b48e71074e]
 type: garden
-title: "House of M. Lucretius Fronto (V.iv.a/11)"
+title: House of M. Lucretius Fronto (V.iv.a/11)
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: Jianing Zhou

@@ -1,8 +1,8 @@
 ---
-gre_id: "217200fd4f"
+gre_id: 217200fd4f
 aliases: [/id/217200fd4f]
 type: garden
-title: "I.6.7 Fullonica of Stephanus"
+title: I.6.7 Fullonica of Stephanus
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner

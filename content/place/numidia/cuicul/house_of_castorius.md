@@ -1,8 +1,8 @@
 ---
-gre_id: "f4f68e533a"
+gre_id: f4f68e533a
 aliases: [/id/f4f68e533a]
 type: garden
-title: "House of Castorius, Central District (Maison du Castorius, Quartier central)"
+title: House of Castorius, Central District (Maison du Castorius, Quartier central)
 latlon: [ 36.317690, 5.736683 ]
 author: Michèle Blanchard-Lemée
 contributor: Brandon Wilson
