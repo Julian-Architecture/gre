@@ -61,8 +61,6 @@ A stylobate was laid on the four sides of this courtyard on leveled bedrock usin
 
 ## Plans
 
-<!--
--->
 {{< image file="asia_syria_jebkhl_gclark_2.png" caption="Fig. 2: Overall plan of the site" credit="" alt="Overall plan of the site with contour lines and architectural remains" >}}
 
 {{< image file="asia_syria_jebkhl_gclark_3.jpg" caption="Fig. 3: Ground plan of the Acropolis palace" credit="" alt="Ground plan of the Acropolis palace" >}}

@@ -58,12 +58,13 @@ V.iv.3
 
 At the rear of this house excavated in 1899 was a courtyard garden (a) with a *portico* on the south. This was supported by one column that was reinforced by a large pillar. The garden was enclosed by a low wall with an opening on the south. A gutter that encircled the edges had a settling basin (0.35 x 0.45 m.; 0.55 m. deep) in the southwest corner. There was no cistern, but a *puteal* stood in the southeast corner.
 
+<!--
 ## Plans
 
-<!-- {{< image file="Euro_GaAq_Montreal_Villa de Séviac.png" caption="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." credit="" alt="" >}}
--->
+{{< image file="Euro_GaAq_Montreal_Villa de Séviac.png" caption="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." credit="" alt="" >}}
 
-<!-- ## Images -->
+## Images
+ -->
 
 ## Dates
 

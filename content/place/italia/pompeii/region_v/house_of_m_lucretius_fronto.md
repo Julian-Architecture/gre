@@ -61,12 +61,13 @@ House of M. Lucretius Fronto (V.iv.a/11)
 
 A. Immediately to the south of the rear door to the *tablinium*, excavated in 1900, was a very small garden (a) with a low wall on the north end. A gutter bordered the garden on the west, north and east sides. The *cubiculum* (c) on the south side of the *atrium* had garden representations on the east and west walls. These were painted in yellow on a black background on the *predella* under the central panels. The panel on the east wall is 0.12 x 0.80 m. and shows a rectangular garden 0.39 m. long enclosed by a lattice fence. The entrance in the middle of the front occupies approximately one third of the length of the wall and so the square area either side of the entrance and directly behind the entrance are of the same size. Vegetation is drawn along the outside of the fence in front.
 
+<!--
 ## Plans
 
-<!-- {{< image file="Euro_GaAq_Montreal_Villa de Séviac.png" caption="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." credit="" alt="" >}}
--->
+{{< image file="Euro_GaAq_Montreal_Villa de Séviac.png" caption="Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN." credit="" alt="" >}}
 
-<!-- ## Images -->
+## Images
+-->
 
 ## Dates
 
