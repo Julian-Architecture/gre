@@ -5,9 +5,9 @@ type: garden
 title: Arcos I Public Baths
 latlon: [ 47.260687, 9.617966 ]
 author: Clopper Almon
-contributor: Qianli Jiang
+contributor: Qianli Jiang, Julian Forster 
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-11-11
 draft: true
 ---
 
